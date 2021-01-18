@@ -1,1 +1,6118 @@
-
+{
+  "type": "FeatureCollection",
+  "name": "geocodedAddress",
+  "attribution": "BAN",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69187,
+          47.843686
+        ]
+      },
+      "properties": {
+        "label": "Rue François Cadoret 29340 Riec-sur-Bélon",
+        "score": 0.28345441558441553,
+        "id": "29236_0110",
+        "name": "NAHELOU Jean ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200050.05,
+        "y": 6770452.02,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.54657,
+        "id_scrap": 0,
+        "year": "1864 - 1888",
+        "address": " Riec Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.698048,
+          47.847959
+        ]
+      },
+      "properties": {
+        "label": "Le Bourg 29340 Riec-sur-Bélon",
+        "score": 0.2878200699300699,
+        "id": "29236_jbjnen",
+        "name": "NAHELOU Jean ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 199629.82,
+        "y": 6770964.22,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.39679,
+        "id_scrap": 1,
+        "year": "1864 - 1888",
+        "address": " RIEC le bourg Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69187,
+          47.843686
+        ]
+      },
+      "properties": {
+        "label": "Rue François Cadoret 29340 Riec-sur-Bélon",
+        "score": 0.4492653488372093,
+        "id": "29236_0110",
+        "name": "NAHÉLOU Charles ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200050.05,
+        "y": 6770452.02,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.54657,
+        "id_scrap": 2,
+        "year": "1862 - 1911",
+        "address": " Riec sur Belon Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.680762,
+          47.849497
+        ]
+      },
+      "properties": {
+        "label": "Riec-sur-Bélon",
+        "score": 0.4011027272727273,
+        "id": "29236",
+        "type": "municipality",
+        "name": "NAHÉLOU Reine ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200932.51,
+        "y": 6771025.11,
+        "population": 4190,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "importance": 0.36213,
+        "id_scrap": 3,
+        "year": "1870 - 1911",
+        "address": " Riec Belon France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.680762,
+          47.849497
+        ]
+      },
+      "properties": {
+        "label": "Riec-sur-Bélon",
+        "score": 0.4011027272727273,
+        "id": "29236",
+        "type": "municipality",
+        "name": "NAHÉLOU Josèphe ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200932.51,
+        "y": 6771025.11,
+        "population": 4190,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "importance": 0.36213,
+        "id_scrap": 4,
+        "year": "1872 - 1911",
+        "address": " Riec Belon France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69187,
+          47.843686
+        ]
+      },
+      "properties": {
+        "label": "Rue François Cadoret 29340 Riec-sur-Bélon",
+        "score": 0.4492653488372093,
+        "id": "29236_0110",
+        "name": "NAHÉLOU Reine ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200050.05,
+        "y": 6770452.02,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.54657,
+        "id_scrap": 5,
+        "year": "1870 - 1911",
+        "address": " Riec sur Belon Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69187,
+          47.843686
+        ]
+      },
+      "properties": {
+        "label": "Rue François Cadoret 29340 Riec-sur-Bélon",
+        "score": 0.4492653488372093,
+        "id": "29236_0110",
+        "name": "NAHÉLOU Josèphe ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200050.05,
+        "y": 6770452.02,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.54657,
+        "id_scrap": 6,
+        "year": "1872 - 1911",
+        "address": " Riec sur Belon Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.680762,
+          47.849497
+        ]
+      },
+      "properties": {
+        "label": "Riec-sur-Bélon",
+        "score": 0.4011027272727273,
+        "id": "29236",
+        "type": "municipality",
+        "name": "NAHÉLOU Jean ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200932.51,
+        "y": 6771025.11,
+        "population": 4190,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "importance": 0.36213,
+        "id_scrap": 7,
+        "year": "1865 - 1911",
+        "address": " Riec Belon France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.680762,
+          47.849497
+        ]
+      },
+      "properties": {
+        "label": "Riec-sur-Bélon",
+        "score": 0.4011027272727273,
+        "id": "29236",
+        "type": "municipality",
+        "name": "NAHÉLOU Charles ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200932.51,
+        "y": 6771025.11,
+        "population": 4190,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "importance": 0.36213,
+        "id_scrap": 8,
+        "year": "1862 - 1911",
+        "address": " Riec Belon France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69187,
+          47.843686
+        ]
+      },
+      "properties": {
+        "label": "Rue François Cadoret 29340 Riec-sur-Bélon",
+        "score": 0.4492653488372093,
+        "id": "29236_0110",
+        "name": "NAHÉLOU Jean ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200050.05,
+        "y": 6770452.02,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.54657,
+        "id_scrap": 9,
+        "year": "1865 - 1911",
+        "address": " Riec sur Belon Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69187,
+          47.843686
+        ]
+      },
+      "properties": {
+        "label": "Rue François Cadoret 29340 Riec-sur-Bélon",
+        "score": 0.40474821612349915,
+        "id": "29236_0110",
+        "name": "NAHELOU Josèphe Marie Anne ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200050.05,
+        "y": 6770452.02,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.54657,
+        "id_scrap": 10,
+        "year": "1890 - 1912",
+        "address": " Riec sur Belon 29236 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.680762,
+          47.849497
+        ]
+      },
+      "properties": {
+        "label": "Riec-sur-Bélon",
+        "score": 0.4011027272727273,
+        "id": "29236",
+        "type": "municipality",
+        "name": "NAHÉLOU Josèphe ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200932.51,
+        "y": 6771025.11,
+        "population": 4190,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "importance": 0.36213,
+        "id_scrap": 11,
+        "year": "1908 - 1911",
+        "address": " Riec Belon France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69187,
+          47.843686
+        ]
+      },
+      "properties": {
+        "label": "Rue François Cadoret 29340 Riec-sur-Bélon",
+        "score": 0.4492653488372093,
+        "id": "29236_0110",
+        "name": "NAHÉLOU Marie ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200050.05,
+        "y": 6770452.02,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.54657,
+        "id_scrap": 12,
+        "year": "1891 - 1911",
+        "address": " Riec sur Belon Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.680762,
+          47.849497
+        ]
+      },
+      "properties": {
+        "label": "Riec-sur-Bélon",
+        "score": 0.4011027272727273,
+        "id": "29236",
+        "type": "municipality",
+        "name": "NAHÉLOU Germain ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200932.51,
+        "y": 6771025.11,
+        "population": 4190,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "importance": 0.36213,
+        "id_scrap": 13,
+        "year": "1889 - 1911",
+        "address": " Riec Belon France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69187,
+          47.843686
+        ]
+      },
+      "properties": {
+        "label": "Rue François Cadoret 29340 Riec-sur-Bélon",
+        "score": 0.4492653488372093,
+        "id": "29236_0110",
+        "name": "NAHÉLOU Victor ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200050.05,
+        "y": 6770452.02,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.54657,
+        "id_scrap": 14,
+        "year": "1902 - 1911",
+        "address": " Riec sur Belon Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.680762,
+          47.849497
+        ]
+      },
+      "properties": {
+        "label": "Riec-sur-Bélon",
+        "score": 0.4011027272727273,
+        "id": "29236",
+        "type": "municipality",
+        "name": "NAHÉLOU Agnès ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200932.51,
+        "y": 6771025.11,
+        "population": 4190,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "importance": 0.36213,
+        "id_scrap": 15,
+        "year": "1910 - 1911",
+        "address": " Riec Belon France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69187,
+          47.843686
+        ]
+      },
+      "properties": {
+        "label": "Rue François Cadoret 29340 Riec-sur-Bélon",
+        "score": 0.4492653488372093,
+        "id": "29236_0110",
+        "name": "NAHÉLOU Germain ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200050.05,
+        "y": 6770452.02,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.54657,
+        "id_scrap": 16,
+        "year": "1889 - 1911",
+        "address": " Riec sur Belon Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.680762,
+          47.849497
+        ]
+      },
+      "properties": {
+        "label": "Riec-sur-Bélon",
+        "score": 0.4011027272727273,
+        "id": "29236",
+        "type": "municipality",
+        "name": "NAHÉLOU Christine ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200932.51,
+        "y": 6771025.11,
+        "population": 4190,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "importance": 0.36213,
+        "id_scrap": 17,
+        "year": "1899 - 1911",
+        "address": " Riec Belon France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69187,
+          47.843686
+        ]
+      },
+      "properties": {
+        "label": "Rue François Cadoret 29340 Riec-sur-Bélon",
+        "score": 0.4492653488372093,
+        "id": "29236_0110",
+        "name": "NAHÉLOU Josèphe ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200050.05,
+        "y": 6770452.02,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.54657,
+        "id_scrap": 18,
+        "year": "1908 - 1911",
+        "address": " Riec sur Belon Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69187,
+          47.843686
+        ]
+      },
+      "properties": {
+        "label": "Rue François Cadoret 29340 Riec-sur-Bélon",
+        "score": 0.4492653488372093,
+        "id": "29236_0110",
+        "name": "NAHÉLOU Anna ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200050.05,
+        "y": 6770452.02,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.54657,
+        "id_scrap": 19,
+        "year": "1896 - 1911",
+        "address": " Riec sur Belon Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69187,
+          47.843686
+        ]
+      },
+      "properties": {
+        "label": "Rue François Cadoret 29340 Riec-sur-Bélon",
+        "score": 0.4492653488372093,
+        "id": "29236_0110",
+        "name": "NAHÉLOU Yvon ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200050.05,
+        "y": 6770452.02,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.54657,
+        "id_scrap": 20,
+        "year": "1897 - 1911",
+        "address": " Riec sur Belon Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69187,
+          47.843686
+        ]
+      },
+      "properties": {
+        "label": "Rue François Cadoret 29340 Riec-sur-Bélon",
+        "score": 0.4492653488372093,
+        "id": "29236_0110",
+        "name": "NAHÉLOU Christine ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200050.05,
+        "y": 6770452.02,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.54657,
+        "id_scrap": 21,
+        "year": "1899 - 1911",
+        "address": " Riec sur Belon Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.680762,
+          47.849497
+        ]
+      },
+      "properties": {
+        "label": "Riec-sur-Bélon",
+        "score": 0.4011027272727273,
+        "id": "29236",
+        "type": "municipality",
+        "name": "NAHÉLOU Ren ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200932.51,
+        "y": 6771025.11,
+        "population": 4190,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "importance": 0.36213,
+        "id_scrap": 22,
+        "year": "1905 - 1911",
+        "address": " Riec Belon France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.680762,
+          47.849497
+        ]
+      },
+      "properties": {
+        "label": "Riec-sur-Bélon",
+        "score": 0.4011027272727273,
+        "id": "29236",
+        "type": "municipality",
+        "name": "NAHÉLOU Jean ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200932.51,
+        "y": 6771025.11,
+        "population": 4190,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "importance": 0.36213,
+        "id_scrap": 23,
+        "year": "1893 - 1911",
+        "address": " Riec Belon France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.680762,
+          47.849497
+        ]
+      },
+      "properties": {
+        "label": "Riec-sur-Bélon",
+        "score": 0.4011027272727273,
+        "id": "29236",
+        "type": "municipality",
+        "name": "NAHÉLOU Anna ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200932.51,
+        "y": 6771025.11,
+        "population": 4190,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "importance": 0.36213,
+        "id_scrap": 24,
+        "year": "1896 - 1911",
+        "address": " Riec Belon France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.680762,
+          47.849497
+        ]
+      },
+      "properties": {
+        "label": "Riec-sur-Bélon",
+        "score": 0.4011027272727273,
+        "id": "29236",
+        "type": "municipality",
+        "name": "NAHÉLOU Yvon ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200932.51,
+        "y": 6771025.11,
+        "population": 4190,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "importance": 0.36213,
+        "id_scrap": 25,
+        "year": "1897 - 1911",
+        "address": " Riec Belon France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.680762,
+          47.849497
+        ]
+      },
+      "properties": {
+        "label": "Riec-sur-Bélon",
+        "score": 0.4011027272727273,
+        "id": "29236",
+        "type": "municipality",
+        "name": "NAHÉLOU Maria ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200932.51,
+        "y": 6771025.11,
+        "population": 4190,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "importance": 0.36213,
+        "id_scrap": 26,
+        "year": "1893 - 1911",
+        "address": " Riec Belon France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69187,
+          47.843686
+        ]
+      },
+      "properties": {
+        "label": "Rue François Cadoret 29340 Riec-sur-Bélon",
+        "score": 0.4492653488372093,
+        "id": "29236_0110",
+        "name": "NAHÉLOU Ren ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200050.05,
+        "y": 6770452.02,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.54657,
+        "id_scrap": 27,
+        "year": "1905 - 1911",
+        "address": " Riec sur Belon Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69187,
+          47.843686
+        ]
+      },
+      "properties": {
+        "label": "Rue François Cadoret 29340 Riec-sur-Bélon",
+        "score": 0.4492653488372093,
+        "id": "29236_0110",
+        "name": "NAHÉLOU Jean ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200050.05,
+        "y": 6770452.02,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.54657,
+        "id_scrap": 28,
+        "year": "1893 - 1911",
+        "address": " Riec sur Belon Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69187,
+          47.843686
+        ]
+      },
+      "properties": {
+        "label": "Rue François Cadoret 29340 Riec-sur-Bélon",
+        "score": 0.40474821612349915,
+        "id": "29236_0110",
+        "name": "NAHELOU Josèphe Marie Jeanne Renée Yvonne ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200050.05,
+        "y": 6770452.02,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.54657,
+        "id_scrap": 29,
+        "year": "1890 - 1912",
+        "address": " Riec sur Belon 29236 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69187,
+          47.843686
+        ]
+      },
+      "properties": {
+        "label": "Rue François Cadoret 29340 Riec-sur-Bélon",
+        "score": 0.4492653488372093,
+        "id": "29236_0110",
+        "name": "NAHÉLOU Maria ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200050.05,
+        "y": 6770452.02,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.54657,
+        "id_scrap": 30,
+        "year": "1893 - 1911",
+        "address": " Riec sur Belon Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.680762,
+          47.849497
+        ]
+      },
+      "properties": {
+        "label": "Riec-sur-Bélon",
+        "score": 0.4011027272727273,
+        "id": "29236",
+        "type": "municipality",
+        "name": "NAHÉLOU Victor ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200932.51,
+        "y": 6771025.11,
+        "population": 4190,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "importance": 0.36213,
+        "id_scrap": 31,
+        "year": "1902 - 1911",
+        "address": " Riec Belon France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69187,
+          47.843686
+        ]
+      },
+      "properties": {
+        "label": "Rue François Cadoret 29340 Riec-sur-Bélon",
+        "score": 0.4492653488372093,
+        "id": "29236_0110",
+        "name": "NAHÉLOU Agnès ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200050.05,
+        "y": 6770452.02,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.54657,
+        "id_scrap": 32,
+        "year": "1910 - 1911",
+        "address": " Riec sur Belon Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.680762,
+          47.849497
+        ]
+      },
+      "properties": {
+        "label": "Riec-sur-Bélon",
+        "score": 0.4011027272727273,
+        "id": "29236",
+        "type": "municipality",
+        "name": "NAHÉLOU Marie ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200932.51,
+        "y": 6771025.11,
+        "population": 4190,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "importance": 0.36213,
+        "id_scrap": 33,
+        "year": "1891 - 1911",
+        "address": " Riec Belon France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.542226,
+          48.013429
+        ]
+      },
+      "properties": {
+        "label": "Guern Vihan 56320 Lanvénégen",
+        "score": 0.343831948051948,
+        "id": "56105_2p42kb",
+        "name": "NAHELOU François Marie ",
+        "postcode": "56320",
+        "citycode": "56105",
+        "x": 212765,
+        "y": 6788311.79,
+        "city": "Lanvénégen",
+        "context": "56, Morbihan, Bretagne",
+        "type": "street",
+        "importance": 0.35358,
+        "id_scrap": 34,
+        "year": "1838 - 1862",
+        "address": " Lanvénégen 56105 Morbihan France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.596832,
+          48.046808
+        ]
+      },
+      "properties": {
+        "label": "Pelle Morvan 56560 Guiscriff",
+        "score": 0.3585850110864745,
+        "id": "56081_f118",
+        "name": "NAHELOU François Marie ",
+        "postcode": "56560",
+        "citycode": "56081",
+        "x": 209017.14,
+        "y": 6792346.42,
+        "city": "Guiscriff",
+        "context": "56, Morbihan, Bretagne",
+        "type": "street",
+        "importance": 0.43224,
+        "id_scrap": 35,
+        "year": "1838 - 1862",
+        "address": " Guiscriff 56081 Morbihan France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.824924,
+          48.024764
+        ]
+      },
+      "properties": {
+        "label": "Place des Resistants 29140 Tourch",
+        "score": 0.2591947001934236,
+        "id": "29281_0750",
+        "name": "NAHELOU Marie Barbe ",
+        "postcode": "29140",
+        "citycode": "29281",
+        "x": 191871.04,
+        "y": 6791348.65,
+        "city": "Tourch",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.36178,
+        "id_scrap": 36,
+        "year": "1746 - 1809",
+        "address": " Tourch 29281 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.837691,
+          47.962481
+        ]
+      },
+      "properties": {
+        "label": "Rue Anatole France 29140 Rosporden",
+        "score": 0.34520628626692457,
+        "id": "29241_0030",
+        "name": "NAHELOU Marie Barbe ",
+        "postcode": "29140",
+        "citycode": "29241",
+        "x": 190324.32,
+        "y": 6784535.82,
+        "city": "Rosporden",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.54195,
+        "id_scrap": 37,
+        "year": "1746 - 1809",
+        "address": " Rosporden 29241 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.897019,
+          47.99481
+        ]
+      },
+      "properties": {
+        "label": "Résidence du Jet 29370 Elliant",
+        "score": 0.2821581818181818,
+        "id": "29049_a390",
+        "name": "NAHELOU Ren ",
+        "postcode": "29370",
+        "citycode": "29049",
+        "x": 186226.65,
+        "y": 6788499.15,
+        "city": "Elliant",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.50374,
+        "id_scrap": 38,
+        "year": "1715 - 1768",
+        "address": " Elliant 29049 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.828061,
+          48.066367
+        ]
+      },
+      "properties": {
+        "label": "Chemin de Brehoray 29370 Coray",
+        "score": 0.24099545454545454,
+        "id": "29041_orm5na",
+        "name": "NAHELOU Ren ",
+        "postcode": "29370",
+        "citycode": "29041",
+        "x": 192037.35,
+        "y": 6795974.72,
+        "city": "Coray",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.45095,
+        "id_scrap": 39,
+        "year": "1715 - 1768",
+        "address": " Coray 29041 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.995806,
+          48.102128
+        ]
+      },
+      "properties": {
+        "label": "Rue de la Resistance 29510 Briec",
+        "score": 0.31061966942148755,
+        "id": "29020_0750",
+        "name": "NAHELOU Ren ",
+        "postcode": "29510",
+        "citycode": "29020",
+        "x": 179942.13,
+        "y": 6801025.5,
+        "city": "Briec",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.55318,
+        "id_scrap": 40,
+        "year": "1715 - 1768",
+        "address": " Briec 29020 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.981944,
+          48.059539
+        ]
+      },
+      "properties": {
+        "label": "Landudal",
+        "score": 0.3070581818181818,
+        "id": "29107",
+        "type": "municipality",
+        "name": "NAHELOU Marie Barbe ",
+        "postcode": "29510",
+        "citycode": "29107",
+        "x": 180551.98,
+        "y": 6796219.96,
+        "population": 874,
+        "city": "Landudal",
+        "context": "29, Finistère, Bretagne",
+        "importance": 0.28389,
+        "id_scrap": 41,
+        "year": "1746 - 1809",
+        "address": " Landudal 29107 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.824924,
+          48.024764
+        ]
+      },
+      "properties": {
+        "label": "Place des Resistants 29140 Tourch",
+        "score": 0.2591947001934236,
+        "id": "29281_0750",
+        "name": "NAHELOU Marie Barbe ",
+        "postcode": "29140",
+        "citycode": "29281",
+        "x": 191871.04,
+        "y": 6791348.65,
+        "city": "Tourch",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.36178,
+        "id_scrap": 42,
+        "year": "1746 - 1809",
+        "address": " Tourch 29281 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.981944,
+          48.059539
+        ]
+      },
+      "properties": {
+        "label": "Landudal",
+        "score": 0.3070581818181818,
+        "id": "29107",
+        "type": "municipality",
+        "name": "NAHELOU Marie Barbe ",
+        "postcode": "29510",
+        "citycode": "29107",
+        "x": 180551.98,
+        "y": 6796219.96,
+        "population": 874,
+        "city": "Landudal",
+        "context": "29, Finistère, Bretagne",
+        "importance": 0.28389,
+        "id_scrap": 43,
+        "year": "1746 - 1809",
+        "address": " Landudal 29107 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.837691,
+          47.962481
+        ]
+      },
+      "properties": {
+        "label": "Rue Anatole France 29140 Rosporden",
+        "score": 0.3954220279720279,
+        "id": "29241_0030",
+        "name": "NAHELOU Marie Barbe ",
+        "postcode": "29140",
+        "citycode": "29241",
+        "x": 190324.32,
+        "y": 6784535.82,
+        "city": "Rosporden",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.54195,
+        "id_scrap": 44,
+        "year": "1746 - 1809",
+        "address": " Rosporden 29140 Mellenick Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.86494,
+          47.905983
+        ]
+      },
+      "properties": {
+        "label": "Groas Toul 29140 Melgven",
+        "score": 0.20371909090909093,
+        "id": "29146_b955",
+        "name": "NAHELOU Marie Barbe ",
+        "postcode": "29140",
+        "citycode": "29146",
+        "x": 187753.2,
+        "y": 6778457.85,
+        "city": "Melgven",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.44091,
+        "id_scrap": 45,
+        "year": "1746 - 1809",
+        "address": " Touch 29140 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.969158,
+          48.065351
+        ]
+      },
+      "properties": {
+        "label": "Keraudren 29510 Landudal",
+        "score": 0.3827674447174447,
+        "id": "29107_gh59f1",
+        "name": "NAHELOU Marie Barbe ",
+        "postcode": "29510",
+        "citycode": "29107",
+        "x": 181557.7,
+        "y": 6796779.28,
+        "city": "Landudal",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.31855,
+        "id_scrap": 46,
+        "year": "1746 - 1809",
+        "address": " Landudal 29510 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.86494,
+          47.905983
+        ]
+      },
+      "properties": {
+        "label": "Groas Toul 29140 Melgven",
+        "score": 0.20371909090909093,
+        "id": "29146_b955",
+        "name": "NAHELOU Marie Barbe ",
+        "postcode": "29140",
+        "citycode": "29146",
+        "x": 187753.2,
+        "y": 6778457.85,
+        "city": "Melgven",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.44091,
+        "id_scrap": 47,
+        "year": "1746 - 1809",
+        "address": " Touch 29140 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.837691,
+          47.962481
+        ]
+      },
+      "properties": {
+        "label": "Rue Anatole France 29140 Rosporden",
+        "score": 0.3954220279720279,
+        "id": "29241_0030",
+        "name": "NAHELOU Marie Barbe ",
+        "postcode": "29140",
+        "citycode": "29241",
+        "x": 190324.32,
+        "y": 6784535.82,
+        "city": "Rosporden",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.54195,
+        "id_scrap": 48,
+        "year": "1746 - 1809",
+        "address": " Rosporden 29140 Mellenick Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.824924,
+          48.024764
+        ]
+      },
+      "properties": {
+        "label": "Place des Resistants 29140 Tourch",
+        "score": 0.2761323341523342,
+        "id": "29281_0750",
+        "name": "NAHELOU Marie Barbe ",
+        "postcode": "29140",
+        "citycode": "29281",
+        "x": 191871.04,
+        "y": 6791348.65,
+        "city": "Tourch",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.36178,
+        "id_scrap": 49,
+        "year": "1746 - 1809",
+        "address": " Tourch Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.002371,
+          48.061412
+        ]
+      },
+      "properties": {
+        "label": "Chemin de Stancou 29510 Landudal",
+        "score": 0.29746626535626536,
+        "id": "29107_hv7pxs",
+        "name": "NAHELOU Marie Barbe ",
+        "postcode": "29510",
+        "citycode": "29107",
+        "x": 179054.65,
+        "y": 6796561.85,
+        "city": "Landudal",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.35321,
+        "id_scrap": 50,
+        "year": "1746 - 1809",
+        "address": " Landudal Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.019504,
+          48.041916
+        ]
+      },
+      "properties": {
+        "label": "Cite de l'Odet 29510 Briec",
+        "score": 0.40633995565410197,
+        "id": "29020_a620",
+        "name": "NAHELOU Ren ",
+        "postcode": "29510",
+        "citycode": "29020",
+        "x": 177591.05,
+        "y": 6794517.07,
+        "city": "Briec",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.51852,
+        "id_scrap": 51,
+        "year": "1715 - 1768",
+        "address": " Briec de L Odet 29 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.828061,
+          48.066367
+        ]
+      },
+      "properties": {
+        "label": "Chemin de Brehoray 29370 Coray",
+        "score": 0.2513850649350649,
+        "id": "29041_orm5na",
+        "name": "NAHELOU Ren ",
+        "postcode": "29370",
+        "citycode": "29041",
+        "x": 192037.35,
+        "y": 6795974.72,
+        "city": "Coray",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.45095,
+        "id_scrap": 52,
+        "year": "1715 - 1768",
+        "address": " Coray Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.995806,
+          48.102128
+        ]
+      },
+      "properties": {
+        "label": "Rue de la Resistance 29510 Briec",
+        "score": 0.31061966942148755,
+        "id": "29020_0750",
+        "name": "NAHELOU Ren ",
+        "postcode": "29510",
+        "citycode": "29020",
+        "x": 179942.13,
+        "y": 6801025.5,
+        "city": "Briec",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.55318,
+        "id_scrap": 53,
+        "year": "1715 - 1768",
+        "address": " Briec 29020 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.897019,
+          47.99481
+        ]
+      },
+      "properties": {
+        "label": "Résidence du Jet 29370 Elliant",
+        "score": 0.30293740259740254,
+        "id": "29049_a390",
+        "name": "NAHELOU Ren ",
+        "postcode": "29370",
+        "citycode": "29049",
+        "x": 186226.65,
+        "y": 6788499.15,
+        "city": "Elliant",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.50374,
+        "id_scrap": 54,
+        "year": "1715 - 1768",
+        "address": " Elliant Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.828061,
+          48.066367
+        ]
+      },
+      "properties": {
+        "label": "Chemin de Brehoray 29370 Coray",
+        "score": 0.24099545454545454,
+        "id": "29041_orm5na",
+        "name": "NAHELOU Ren ",
+        "postcode": "29370",
+        "citycode": "29041",
+        "x": 192037.35,
+        "y": 6795974.72,
+        "city": "Coray",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.45095,
+        "id_scrap": 55,
+        "year": "1715 - 1768",
+        "address": " Coray 29041 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.897019,
+          47.99481
+        ]
+      },
+      "properties": {
+        "label": "Résidence du Jet 29370 Elliant",
+        "score": 0.2821581818181818,
+        "id": "29049_a390",
+        "name": "NAHELOU Ren ",
+        "postcode": "29370",
+        "citycode": "29049",
+        "x": 186226.65,
+        "y": 6788499.15,
+        "city": "Elliant",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.50374,
+        "id_scrap": 56,
+        "year": "1715 - 1768",
+        "address": " Elliant 29049 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.837691,
+          47.962481
+        ]
+      },
+      "properties": {
+        "label": "Rue Anatole France 29140 Rosporden",
+        "score": 0.34520628626692457,
+        "id": "29241_0030",
+        "name": "NAHELOU Marie Barbe ",
+        "postcode": "29140",
+        "citycode": "29241",
+        "x": 190324.32,
+        "y": 6784535.82,
+        "city": "Rosporden",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.54195,
+        "id_scrap": 57,
+        "year": "1746 - 1809",
+        "address": " Rosporden 29241 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.837691,
+          47.962481
+        ]
+      },
+      "properties": {
+        "label": "Rue Anatole France 29140 Rosporden",
+        "score": 0.38096351351351354,
+        "id": "29241_0030",
+        "name": "NAHELOU Marie Barbe ",
+        "postcode": "29140",
+        "citycode": "29241",
+        "x": 190324.32,
+        "y": 6784535.82,
+        "city": "Rosporden",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.54195,
+        "id_scrap": 58,
+        "year": "1746 - 1809",
+        "address": " Rosporden Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.981944,
+          48.059539
+        ]
+      },
+      "properties": {
+        "label": "Landudal",
+        "score": 0.3070581818181818,
+        "id": "29107",
+        "type": "municipality",
+        "name": "NAHELOU Marie Barbe ",
+        "postcode": "29510",
+        "citycode": "29107",
+        "x": 180551.98,
+        "y": 6796219.96,
+        "population": 874,
+        "city": "Landudal",
+        "context": "29, Finistère, Bretagne",
+        "importance": 0.28389,
+        "id_scrap": 59,
+        "year": "1746 - 1809",
+        "address": " Landudal 29107 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.86494,
+          47.905983
+        ]
+      },
+      "properties": {
+        "label": "Groas Toul 29140 Melgven",
+        "score": 0.20371909090909093,
+        "id": "29146_b955",
+        "name": "NAHELOU Marie Barbe ",
+        "postcode": "29140",
+        "citycode": "29146",
+        "x": 187753.2,
+        "y": 6778457.85,
+        "city": "Melgven",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.44091,
+        "id_scrap": 60,
+        "year": "1746 - 1809",
+        "address": " Touch 29140 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.832673,
+          47.960613
+        ]
+      },
+      "properties": {
+        "label": "La Ville 29140 Rosporden",
+        "score": 0.3411733596837944,
+        "id": "29241_sgjjav",
+        "name": "NAHELOU Marie Barbe ",
+        "postcode": "29140",
+        "citycode": "29241",
+        "x": 190679.49,
+        "y": 6784296.65,
+        "city": "Rosporden",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.42682,
+        "id_scrap": 61,
+        "year": "1746 - 1809",
+        "address": " En ville Rosporden 29241 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.243142,
+          47.893546
+        ]
+      },
+      "properties": {
+        "label": "Tourne Veste 72220 Laigné-en-Belin",
+        "score": 0.30622272727272726,
+        "type": "locality",
+        "importance": 0.36845,
+        "id": "72155_b722",
+        "name": "NAHÉLOU Adolphine ",
+        "postcode": "72220",
+        "citycode": "72155",
+        "x": 494023.52,
+        "y": 6758390.73,
+        "city": "Laigné-en-Belin",
+        "context": "72, Sarthe, Pays de la Loire",
+        "id_scrap": 62,
+        "year": "1913 - 1993",
+        "address": " Veurne West Vlaanderen Belgium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.716188,
+          50.506715
+        ]
+      },
+      "properties": {
+        "label": "Rue de la Paix 62113 Sailly-Labourse",
+        "score": 0.41870874125874125,
+        "id": "62735_0150",
+        "name": "NAHÉLOU Adolphine ",
+        "postcode": "62113",
+        "citycode": "62735",
+        "x": 679835.77,
+        "y": 7045524.2,
+        "city": "Sailly-Labourse",
+        "context": "62, Pas-de-Calais, Hauts-de-France",
+        "type": "street",
+        "importance": 0.45195,
+        "id_scrap": 63,
+        "year": "1913 - 1993",
+        "address": " Sailly Labourse 62735 Pas de Calais France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.370061,
+          48.837712
+        ]
+      },
+      "properties": {
+        "label": "Voie Ea/13 75013 Paris",
+        "score": 0.2711800586510264,
+        "id": "75113_2sa827",
+        "name": "NAHELOU Adolphine ",
+        "postcode": "75013",
+        "citycode": "75113",
+        "x": 653762.75,
+        "y": 6859924.49,
+        "city": "Paris",
+        "district": "Paris 13e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "street",
+        "importance": 0.6604,
+        "id_scrap": 64,
+        "year": "1913 - 1993",
+        "address": " Paris 16 Ème Paris France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69187,
+          47.843686
+        ]
+      },
+      "properties": {
+        "label": "Rue François Cadoret 29340 Riec-sur-Bélon",
+        "score": 0.5005230612244896,
+        "id": "29236_0110",
+        "name": "NAHELOU Marie Jeanne ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200050.05,
+        "y": 6770452.02,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.54657,
+        "id_scrap": 65,
+        "year": "1791 - 1791",
+        "address": " Riec Sur Belon 29340 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.376158,
+          48.830919
+        ]
+      },
+      "properties": {
+        "label": "Avenue de France 75013 Paris",
+        "score": 0.3919345454545455,
+        "id": "75113_3796",
+        "name": "NAHÉLOU Adolphine ",
+        "postcode": "75013",
+        "citycode": "75113",
+        "x": 654204.29,
+        "y": 6859165.63,
+        "city": "Paris",
+        "district": "Paris 13e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "street",
+        "importance": 0.81128,
+        "id_scrap": 66,
+        "year": "1913 - 1993",
+        "address": " Paris 75056 Paris France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.716188,
+          50.506715
+        ]
+      },
+      "properties": {
+        "label": "Rue de la Paix 62113 Sailly-Labourse",
+        "score": 0.41870874125874125,
+        "id": "62735_0150",
+        "name": "NAHELOU Adolphine ",
+        "postcode": "62113",
+        "citycode": "62735",
+        "x": 679835.77,
+        "y": 7045524.2,
+        "city": "Sailly-Labourse",
+        "context": "62, Pas-de-Calais, Hauts-de-France",
+        "type": "street",
+        "importance": 0.45195,
+        "id_scrap": 67,
+        "year": "1913 - 1993",
+        "address": " Sailly Labourse 62735 Pas de Calais France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.243142,
+          47.893546
+        ]
+      },
+      "properties": {
+        "label": "Tourne Veste 72220 Laigné-en-Belin",
+        "score": 0.27720918762088975,
+        "type": "locality",
+        "importance": 0.36845,
+        "id": "72155_b722",
+        "name": "NAHELOU Adolphine ",
+        "postcode": "72220",
+        "citycode": "72155",
+        "x": 494023.52,
+        "y": 6758390.73,
+        "city": "Laigné-en-Belin",
+        "context": "72, Sarthe, Pays de la Loire",
+        "id_scrap": 68,
+        "year": "1913 - 1993",
+        "address": " Veurne 8630 West Vlaanderen Belgium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.828061,
+          48.066367
+        ]
+      },
+      "properties": {
+        "label": "Chemin de Brehoray 29370 Coray",
+        "score": 0.24099545454545454,
+        "id": "29041_orm5na",
+        "name": "NAHELOU Jean ",
+        "postcode": "29370",
+        "citycode": "29041",
+        "x": 192037.35,
+        "y": 6795974.72,
+        "city": "Coray",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.45095,
+        "id_scrap": 69,
+        "year": "1673 - 1728",
+        "address": " Coray 29041 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69187,
+          47.843686
+        ]
+      },
+      "properties": {
+        "label": "Rue François Cadoret 29340 Riec-sur-Bélon",
+        "score": 0.4492653488372093,
+        "id": "29236_0110",
+        "name": "NAHÉLOU Jean ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200050.05,
+        "y": 6770452.02,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.54657,
+        "id_scrap": 70,
+        "year": "1864 - 1864",
+        "address": " Riec sur Belon Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.837691,
+          47.962481
+        ]
+      },
+      "properties": {
+        "label": "Rue Anatole France 29140 Rosporden",
+        "score": 0.34520628626692457,
+        "id": "29241_0030",
+        "name": "NAHELOU Marie Barbe ",
+        "postcode": "29140",
+        "citycode": "29241",
+        "x": 190324.32,
+        "y": 6784535.82,
+        "city": "Rosporden",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.54195,
+        "id_scrap": 71,
+        "year": "1746 - 1809",
+        "address": " Rosporden 29241 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.86494,
+          47.905983
+        ]
+      },
+      "properties": {
+        "label": "Groas Toul 29140 Melgven",
+        "score": 0.20371909090909093,
+        "id": "29146_b955",
+        "name": "NAHELOU Marie Barbe ",
+        "postcode": "29140",
+        "citycode": "29146",
+        "x": 187753.2,
+        "y": 6778457.85,
+        "city": "Melgven",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.44091,
+        "id_scrap": 72,
+        "year": "1746 - 1809",
+        "address": " Touch 29140 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.837691,
+          47.962481
+        ]
+      },
+      "properties": {
+        "label": "Rue Anatole France 29140 Rosporden",
+        "score": 0.38096351351351354,
+        "id": "29241_0030",
+        "name": "NAHELOU Marie Barbe ",
+        "postcode": "29140",
+        "citycode": "29241",
+        "x": 190324.32,
+        "y": 6784535.82,
+        "city": "Rosporden",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.54195,
+        "id_scrap": 73,
+        "year": "1746 - 1809",
+        "address": " Rosporden Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.832673,
+          47.960613
+        ]
+      },
+      "properties": {
+        "label": "La Ville 29140 Rosporden",
+        "score": 0.3411733596837944,
+        "id": "29241_sgjjav",
+        "name": "NAHELOU Marie Barbe ",
+        "postcode": "29140",
+        "citycode": "29241",
+        "x": 190679.49,
+        "y": 6784296.65,
+        "city": "Rosporden",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.42682,
+        "id_scrap": 74,
+        "year": "1746 - 1809",
+        "address": " En ville Rosporden 29241 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.824924,
+          48.024764
+        ]
+      },
+      "properties": {
+        "label": "Place des Resistants 29140 Tourch",
+        "score": 0.2761323341523342,
+        "id": "29281_0750",
+        "name": "NAHELOU Marie Barbe ",
+        "postcode": "29140",
+        "citycode": "29281",
+        "x": 191871.04,
+        "y": 6791348.65,
+        "city": "Tourch",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.36178,
+        "id_scrap": 75,
+        "year": "1746 - 1809",
+        "address": " Tourch Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69187,
+          47.843686
+        ]
+      },
+      "properties": {
+        "label": "Rue François Cadoret 29340 Riec-sur-Bélon",
+        "score": 0.40474821612349915,
+        "id": "29236_0110",
+        "name": "NAHELOU Jeannine Marie Josephe ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200050.05,
+        "y": 6770452.02,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.54657,
+        "id_scrap": 76,
+        "address": " Riec sur Belon 29236 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69187,
+          47.843686
+        ]
+      },
+      "properties": {
+        "label": "Rue François Cadoret 29340 Riec-sur-Bélon",
+        "score": 0.40474821612349915,
+        "id": "29236_0110",
+        "name": "NAHELOU Ferdinande Albertine Josephine ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200050.05,
+        "y": 6770452.02,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.54657,
+        "id_scrap": 77,
+        "address": " Riec sur Belon 29236 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.100444,
+          47.988204
+        ]
+      },
+      "properties": {
+        "label": "Rue Anatole France 29000 Quimper",
+        "score": 0.3326254545454545,
+        "id": "29232_0140",
+        "name": "NAHELOU Andre Marcel Pierre ",
+        "postcode": "29000",
+        "citycode": "29232",
+        "x": 171047.45,
+        "y": 6789111.11,
+        "city": "Quimper",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.65888,
+        "id_scrap": 78,
+        "address": " Quimper 29232 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69187,
+          47.843686
+        ]
+      },
+      "properties": {
+        "label": "Rue François Cadoret 29340 Riec-sur-Bélon",
+        "score": 0.5005230612244896,
+        "id": "29236_0110",
+        "name": "NAHÉLOU Jean ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200050.05,
+        "y": 6770452.02,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.54657,
+        "id_scrap": 79,
+        "year": "1864 - 1864",
+        "address": " Riec sur Belon 29340 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.824924,
+          48.024764
+        ]
+      },
+      "properties": {
+        "label": "Place des Resistants 29140 Tourch",
+        "score": 0.2761323341523342,
+        "id": "29281_0750",
+        "name": "NAHELOU Anne ",
+        "postcode": "29140",
+        "citycode": "29281",
+        "x": 191871.04,
+        "y": 6791348.65,
+        "city": "Tourch",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.36178,
+        "id_scrap": 80,
+        "year": "1749 - 1820",
+        "address": " Tourch Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.345036,
+          47.814527
+        ]
+      },
+      "properties": {
+        "label": "Résidence Jean Moulin 56850 Caudan",
+        "score": 0.3229836363636363,
+        "id": "56036_a069",
+        "name": "NAHÉLOU Christian ",
+        "postcode": "56850",
+        "citycode": "56036",
+        "x": 225644.65,
+        "y": 6765083.4,
+        "city": "Caudan",
+        "context": "56, Morbihan, Bretagne",
+        "type": "street",
+        "importance": 0.55282,
+        "id_scrap": 81,
+        "year": "1931 - 2017",
+        "address": " Caudan Morbihan France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.575117,
+          47.868731
+        ]
+      },
+      "properties": {
+        "label": "Rond Point Pierre Mendes France 29300 Quimperlé",
+        "score": 0.34768272727272725,
+        "id": "29233_x038",
+        "name": "NAHELOU Jeannine Marie Josephe ",
+        "postcode": "29300",
+        "citycode": "29233",
+        "x": 208983.78,
+        "y": 6772492.4,
+        "city": "Quimperlé",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.44951,
+        "id_scrap": 82,
+        "address": " Quimperlé 29233 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69187,
+          47.843686
+        ]
+      },
+      "properties": {
+        "label": "Rue François Cadoret 29340 Riec-sur-Bélon",
+        "score": 0.40474821612349915,
+        "id": "29236_0110",
+        "name": "NAHELOU Anna Louise Reine ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200050.05,
+        "y": 6770452.02,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.54657,
+        "id_scrap": 83,
+        "address": " Riec sur Belon 29236 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69187,
+          47.843686
+        ]
+      },
+      "properties": {
+        "label": "Rue François Cadoret 29340 Riec-sur-Bélon",
+        "score": 0.40474821612349915,
+        "id": "29236_0110",
+        "name": "NAHELOU Andre Marcel Pierre ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200050.05,
+        "y": 6770452.02,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.54657,
+        "id_scrap": 84,
+        "address": " Riec sur Belon 29236 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.828061,
+          48.066367
+        ]
+      },
+      "properties": {
+        "label": "Chemin de Brehoray 29370 Coray",
+        "score": 0.24099545454545454,
+        "id": "29041_orm5na",
+        "name": "NAHELOU Jean ",
+        "postcode": "29370",
+        "citycode": "29041",
+        "x": 192037.35,
+        "y": 6795974.72,
+        "city": "Coray",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.45095,
+        "id_scrap": 85,
+        "year": "1673 - 1728",
+        "address": " Coray 29041 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69187,
+          47.843686
+        ]
+      },
+      "properties": {
+        "label": "Rue François Cadoret 29340 Riec-sur-Bélon",
+        "score": 0.40474821612349915,
+        "id": "29236_0110",
+        "name": "NAHELOU Joseph Louis Rene ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200050.05,
+        "y": 6770452.02,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.54657,
+        "id_scrap": 86,
+        "address": " Riec sur Belon 29236 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.366934,
+          47.746206
+        ]
+      },
+      "properties": {
+        "label": "Avenue Anatole France 56100 Lorient",
+        "score": 0.3419922529644269,
+        "id": "56121_0270",
+        "name": "NAHELOU Christian Marie Gerard Yves ",
+        "postcode": "56100",
+        "citycode": "56121",
+        "x": 223399.68,
+        "y": 6757648.86,
+        "city": "Lorient",
+        "context": "56, Morbihan, Bretagne",
+        "type": "street",
+        "importance": 0.63148,
+        "id_scrap": 87,
+        "address": " Lorient 56121 Morbihan France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69187,
+          47.843686
+        ]
+      },
+      "properties": {
+        "label": "Rue François Cadoret 29340 Riec-sur-Bélon",
+        "score": 0.40474821612349915,
+        "id": "29236_0110",
+        "name": "NAHELOU Joseph Louis ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200050.05,
+        "y": 6770452.02,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.54657,
+        "id_scrap": 88,
+        "address": " Riec sur Belon 29236 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.668293,
+          48.090703
+        ]
+      },
+      "properties": {
+        "label": "Rue France Perrot 35200 Rennes",
+        "score": 0.36320245059288536,
+        "id": "35238_3190",
+        "name": "NAHELOU Yvette Therese Odette ",
+        "postcode": "35200",
+        "citycode": "35238",
+        "x": 352638.96,
+        "y": 6786974.15,
+        "city": "Rennes",
+        "context": "35, Ille-et-Vilaine, Bretagne",
+        "type": "street",
+        "importance": 0.66914,
+        "id_scrap": 89,
+        "address": " Rennes 35238 Ille et Vilaine France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.100444,
+          47.988204
+        ]
+      },
+      "properties": {
+        "label": "Rue Anatole France 29000 Quimper",
+        "score": 0.3326254545454545,
+        "id": "29232_0140",
+        "name": "NAHELOU Joseph Louis Rene ",
+        "postcode": "29000",
+        "citycode": "29232",
+        "x": 171047.45,
+        "y": 6789111.11,
+        "city": "Quimper",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.65888,
+        "id_scrap": 90,
+        "address": " Quimper 29232 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.054685,
+          50.646885
+        ]
+      },
+      "properties": {
+        "label": "Rue du Nord 59800 Lille",
+        "score": 0.40593941348973606,
+        "id": "59350_6405",
+        "name": "NAHELOU Jean Luc ",
+        "postcode": "59800",
+        "citycode": "59350",
+        "oldcitycode": "59350",
+        "x": 703874.44,
+        "y": 7061107.1,
+        "city": "Lille",
+        "oldcity": "Lille",
+        "context": "59, Nord, Hauts-de-France",
+        "type": "street",
+        "importance": 0.69114,
+        "id_scrap": 91,
+        "address": " Lille 59350 Nord France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.345036,
+          47.814527
+        ]
+      },
+      "properties": {
+        "label": "Résidence Jean Moulin 56850 Caudan",
+        "score": 0.29926822134387354,
+        "id": "56036_a069",
+        "name": "NAHELOU Christian Marie Gerard Yves ",
+        "postcode": "56850",
+        "citycode": "56036",
+        "x": 225644.65,
+        "y": 6765083.4,
+        "city": "Caudan",
+        "context": "56, Morbihan, Bretagne",
+        "type": "street",
+        "importance": 0.55282,
+        "id_scrap": 92,
+        "address": " Caudan 56036 Morbihan France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.778764,
+          48.064389
+        ]
+      },
+      "properties": {
+        "label": "Place Pl Pierre Mendes France 53000 Laval",
+        "score": 0.3606380464216634,
+        "id": "53130_4259",
+        "name": "NAHELOU Jean Louis ",
+        "postcode": "53000",
+        "citycode": "53130",
+        "x": 418631.17,
+        "y": 6780512.64,
+        "city": "Laval",
+        "context": "53, Mayenne, Pays de la Loire",
+        "type": "street",
+        "importance": 0.52021,
+        "id_scrap": 93,
+        "address": " Laval 53130 Mayenne France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.365011,
+          48.875742
+        ]
+      },
+      "properties": {
+        "label": "Voie B/10 75010 Paris",
+        "score": 0.2709781818181818,
+        "id": "75110_a6rs9o",
+        "name": "NAHELOU Yvette Therese Odette ",
+        "postcode": "75010",
+        "citycode": "75110",
+        "x": 653426.1,
+        "y": 6864156.07,
+        "city": "Paris",
+        "district": "Paris 10e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "street",
+        "importance": 0.64076,
+        "id_scrap": 94,
+        "address": " Paris 10 e Arrondissement 75110 Paris France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.828061,
+          48.066367
+        ]
+      },
+      "properties": {
+        "label": "Chemin de Brehoray 29370 Coray",
+        "score": 0.24099545454545454,
+        "id": "29041_orm5na",
+        "name": "NAHELOU Ren ",
+        "postcode": "29370",
+        "citycode": "29041",
+        "x": 192037.35,
+        "y": 6795974.72,
+        "city": "Coray",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.45095,
+        "id_scrap": 95,
+        "year": "1715 - 1768",
+        "address": " Coray 29041 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.946211,
+          48.624723
+        ]
+      },
+      "properties": {
+        "label": "Lieu Dit la Francherie 28250 La Puisaye",
+        "score": 0.3593423076923077,
+        "id": "28310_c7jslf",
+        "name": "NAHELOU Jean Louis ",
+        "postcode": "28250",
+        "citycode": "28310",
+        "x": 548652.33,
+        "y": 6838027.7,
+        "city": "La Puisaye",
+        "context": "28, Eure-et-Loir, Centre-Val de Loire",
+        "type": "street",
+        "importance": 0.31815,
+        "id_scrap": 96,
+        "address": " La Puisaye 28310 Eure et Loir France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.897019,
+          47.99481
+        ]
+      },
+      "properties": {
+        "label": "Résidence du Jet 29370 Elliant",
+        "score": 0.2821581818181818,
+        "id": "29049_a390",
+        "name": "NAHELOU Ren ",
+        "postcode": "29370",
+        "citycode": "29049",
+        "x": 186226.65,
+        "y": 6788499.15,
+        "city": "Elliant",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.50374,
+        "id_scrap": 97,
+        "year": "1715 - 1768",
+        "address": " Elliant 29049 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69187,
+          47.843686
+        ]
+      },
+      "properties": {
+        "label": "Rue François Cadoret 29340 Riec-sur-Bélon",
+        "score": 0.40474821612349915,
+        "id": "29236_0110",
+        "name": "NAHELOU Agnes Josephine ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200050.05,
+        "y": 6770452.02,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.54657,
+        "id_scrap": 98,
+        "address": " Riec sur Belon 29236 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.227764,
+          48.921359
+        ]
+      },
+      "properties": {
+        "label": "Rue de Seine 92700 Colombes",
+        "score": 0.4042601691331924,
+        "id": "92025_8535",
+        "name": "NAHELOU Victor ",
+        "postcode": "92700",
+        "citycode": "92025",
+        "x": 643409.48,
+        "y": 6869318.1,
+        "city": "Colombes",
+        "context": "92, Hauts-de-Seine, Île-de-France",
+        "type": "street",
+        "importance": 0.67942,
+        "id_scrap": 99,
+        "address": " Colombes 92025 Hauts de Seine France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.828061,
+          48.066367
+        ]
+      },
+      "properties": {
+        "label": "Chemin de Brehoray 29370 Coray",
+        "score": 0.24099545454545454,
+        "id": "29041_orm5na",
+        "name": "NAHELOU Jean ",
+        "postcode": "29370",
+        "citycode": "29041",
+        "x": 192037.35,
+        "y": 6795974.72,
+        "city": "Coray",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.45095,
+        "id_scrap": 113,
+        "year": "1673 - 1728",
+        "address": " Coray 29041 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.571444,
+          47.224158
+        ]
+      },
+      "properties": {
+        "label": "Place Anatole France 44000 Nantes",
+        "score": 0.3862827272727273,
+        "id": "44109_0248",
+        "name": "NAHELOU Victor ",
+        "postcode": "44000",
+        "citycode": "44109",
+        "x": 354266.64,
+        "y": 6690439.6,
+        "city": "Nantes",
+        "context": "44, Loire-Atlantique, Pays de la Loire",
+        "type": "street",
+        "importance": 0.68661,
+        "id_scrap": 114,
+        "address": " Nantes 44109 Loire Atlantique France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69187,
+          47.843686
+        ]
+      },
+      "properties": {
+        "label": "Rue François Cadoret 29340 Riec-sur-Bélon",
+        "score": 0.40474821612349915,
+        "id": "29236_0110",
+        "name": "NAHÉLOU Germain Joseph Charles ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200050.05,
+        "y": 6770452.02,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.54657,
+        "id_scrap": 115,
+        "year": "1889 - 1912",
+        "address": " Riec sur Belon 29236 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.716188,
+          50.506715
+        ]
+      },
+      "properties": {
+        "label": "Rue de la Paix 62113 Sailly-Labourse",
+        "score": 0.41870874125874125,
+        "id": "62735_0150",
+        "name": "NAHELOU Charles ",
+        "postcode": "62113",
+        "citycode": "62735",
+        "x": 679835.77,
+        "y": 7045524.2,
+        "city": "Sailly-Labourse",
+        "context": "62, Pas-de-Calais, Hauts-de-France",
+        "type": "street",
+        "importance": 0.45195,
+        "id_scrap": 116,
+        "address": " Sailly Labourse 62735 Pas de Calais France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69187,
+          47.843686
+        ]
+      },
+      "properties": {
+        "label": "Rue François Cadoret 29340 Riec-sur-Bélon",
+        "score": 0.40474821612349915,
+        "id": "29236_0110",
+        "name": "NAHELOU Marie Josephe Christine ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200050.05,
+        "y": 6770452.02,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.54657,
+        "id_scrap": 117,
+        "address": " Riec sur Belon 29236 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69187,
+          47.843686
+        ]
+      },
+      "properties": {
+        "label": "Rue François Cadoret 29340 Riec-sur-Bélon",
+        "score": 0.26996790209790206,
+        "id": "29236_0110",
+        "name": "NAHÉLOU Jean ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200050.05,
+        "y": 6770452.02,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.54657,
+        "id_scrap": 118,
+        "year": "1865 - 1865",
+        "address": " Riec 29236 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.716188,
+          50.506715
+        ]
+      },
+      "properties": {
+        "label": "Rue de la Paix 62113 Sailly-Labourse",
+        "score": 0.41870874125874125,
+        "id": "62735_0150",
+        "name": "NAHÉLOU Germain Joseph Charles ",
+        "postcode": "62113",
+        "citycode": "62735",
+        "x": 679835.77,
+        "y": 7045524.2,
+        "city": "Sailly-Labourse",
+        "context": "62, Pas-de-Calais, Hauts-de-France",
+        "type": "street",
+        "importance": 0.45195,
+        "id_scrap": 119,
+        "year": "1889 - 1912",
+        "address": " Sailly Labourse 62735 Pas de Calais France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.952617,
+          50.70202
+        ]
+      },
+      "properties": {
+        "label": "Frelinghien",
+        "score": 0.4122118181818182,
+        "id": "59252",
+        "type": "municipality",
+        "name": "NAHELOU Charles ",
+        "postcode": "59236",
+        "citycode": "59252",
+        "x": 696646.59,
+        "y": 7067250.82,
+        "population": 2402,
+        "city": "Frelinghien",
+        "context": "59, Nord, Hauts-de-France",
+        "importance": 0.33433,
+        "id_scrap": 120,
+        "address": " Frelinghien 59252 Nord France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.575117,
+          47.868731
+        ]
+      },
+      "properties": {
+        "label": "Rond Point Pierre Mendes France 29300 Quimperlé",
+        "score": 0.34768272727272725,
+        "id": "29233_x038",
+        "name": "NAHELOU Marie Josephe Christine ",
+        "postcode": "29300",
+        "citycode": "29233",
+        "x": 208983.78,
+        "y": 6772492.4,
+        "city": "Quimperlé",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.44951,
+        "id_scrap": 121,
+        "address": " Quimperlé 29233 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69187,
+          47.843686
+        ]
+      },
+      "properties": {
+        "label": "Rue François Cadoret 29340 Riec-sur-Bélon",
+        "score": 0.40474821612349915,
+        "id": "29236_0110",
+        "name": "NAHELOU Renee Anne Josephine ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200050.05,
+        "y": 6770452.02,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.54657,
+        "id_scrap": 122,
+        "address": " Riec sur Belon 29236 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.837847,
+          50.67154
+        ]
+      },
+      "properties": {
+        "label": "Erquinghem-Lys",
+        "score": 0.41882310160427805,
+        "id": "59202",
+        "type": "municipality",
+        "name": "NAHELOU Jean Luc ",
+        "postcode": "59193",
+        "citycode": "59202",
+        "x": 688517.08,
+        "y": 7063864.96,
+        "population": 5081,
+        "city": "Erquinghem-Lys",
+        "context": "59, Nord, Hauts-de-France",
+        "importance": 0.37176,
+        "id_scrap": 123,
+        "address": " Erquinghem Lys 59202 Nord France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.575117,
+          47.868731
+        ]
+      },
+      "properties": {
+        "label": "Rond Point Pierre Mendes France 29300 Quimperlé",
+        "score": 0.34768272727272725,
+        "id": "29233_x038",
+        "name": "NAHELOU Agnes Josephine ",
+        "postcode": "29300",
+        "citycode": "29233",
+        "x": 208983.78,
+        "y": 6772492.4,
+        "city": "Quimperlé",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.44951,
+        "id_scrap": 124,
+        "address": " Quimperlé 29233 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.883927,
+          47.865759
+        ]
+      },
+      "properties": {
+        "label": "Rue de Kerviniou 29900 Concarneau",
+        "score": 0.3559862862669245,
+        "id": "29039_2060",
+        "name": "NAHELOU Ferdinande Albertine Josephine ",
+        "postcode": "29900",
+        "citycode": "29039",
+        "x": 185950.87,
+        "y": 6774128.7,
+        "city": "Concarneau",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.66053,
+        "id_scrap": 125,
+        "address": " Concarneau 29039 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.596832,
+          48.046808
+        ]
+      },
+      "properties": {
+        "label": "Pelle Morvan 56560 Guiscriff",
+        "score": 0.3585850110864745,
+        "id": "56081_f118",
+        "name": "NAHELOU François Marie ",
+        "postcode": "56560",
+        "citycode": "56081",
+        "x": 209017.14,
+        "y": 6792346.42,
+        "city": "Guiscriff",
+        "context": "56, Morbihan, Bretagne",
+        "type": "street",
+        "importance": 0.43224,
+        "id_scrap": 126,
+        "year": "1838 - 1862",
+        "address": " Guiscriff 56081 Morbihan France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.542226,
+          48.013429
+        ]
+      },
+      "properties": {
+        "label": "Guern Vihan 56320 Lanvénégen",
+        "score": 0.343831948051948,
+        "id": "56105_2p42kb",
+        "name": "NAHELOU François Marie ",
+        "postcode": "56320",
+        "citycode": "56105",
+        "x": 212765,
+        "y": 6788311.79,
+        "city": "Lanvénégen",
+        "context": "56, Morbihan, Bretagne",
+        "type": "street",
+        "importance": 0.35358,
+        "id_scrap": 127,
+        "year": "1838 - 1862",
+        "address": " Lanvénégen 56105 Morbihan France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.689238,
+          50.504138
+        ]
+      },
+      "properties": {
+        "label": "Résidence les Blés d'Or 62113 Sailly-Labourse",
+        "score": 0.3781515151515151,
+        "id": "62735_a001",
+        "name": "NAHÉLOU Germain Joseph Charles ",
+        "postcode": "62113",
+        "citycode": "62735",
+        "x": 677919.91,
+        "y": 7045244.31,
+        "city": "Sailly-Labourse",
+        "context": "62, Pas-de-Calais, Hauts-de-France",
+        "type": "street",
+        "importance": 0.493,
+        "id_scrap": 128,
+        "year": "1889 - 1912",
+        "address": " Sailly Labourse FR Pas de Calais France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.639833,
+          47.83401
+        ]
+      },
+      "properties": {
+        "label": "Pen Ar Choat Crutius 29340 Riec-sur-Bélon",
+        "score": 0.27208580419580414,
+        "id": "29236_b245",
+        "name": "NAHÉLOU Germain Joseph Charles ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 203838.24,
+        "y": 6769052.51,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.39679,
+        "id_scrap": 129,
+        "year": "1889 - 1912",
+        "address": " Riec sur Belon FR Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69187,
+          47.843686
+        ]
+      },
+      "properties": {
+        "label": "Rue François Cadoret 29340 Riec-sur-Bélon",
+        "score": 0.4492653488372093,
+        "id": "29236_0110",
+        "name": "NAHÉLOU Renée NAHÉLOU ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200050.05,
+        "y": 6770452.02,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.54657,
+        "id_scrap": 130,
+        "address": " Riec sur Bélon Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.897019,
+          47.99481
+        ]
+      },
+      "properties": {
+        "label": "Résidence du Jet 29370 Elliant",
+        "score": 0.2821581818181818,
+        "id": "29049_a390",
+        "name": "LE NAHELOU Marguerite ",
+        "postcode": "29370",
+        "citycode": "29049",
+        "x": 186226.65,
+        "y": 6788499.15,
+        "city": "Elliant",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.50374,
+        "id_scrap": 131,
+        "year": "1766 - 1829",
+        "address": " Elliant 29049 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.837691,
+          47.962481
+        ]
+      },
+      "properties": {
+        "label": "Rue Anatole France 29140 Rosporden",
+        "score": 0.34520628626692457,
+        "id": "29241_0030",
+        "name": "LE NAHELOU Marguerite ",
+        "postcode": "29140",
+        "citycode": "29241",
+        "x": 190324.32,
+        "y": 6784535.82,
+        "city": "Rosporden",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.54195,
+        "id_scrap": 132,
+        "year": "1766 - 1829",
+        "address": " Rosporden 29241 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.824924,
+          48.024764
+        ]
+      },
+      "properties": {
+        "label": "Place des Resistants 29140 Tourch",
+        "score": 0.2761323341523342,
+        "id": "29281_0750",
+        "name": "NAHELOU Marie Barbe ",
+        "postcode": "29140",
+        "citycode": "29281",
+        "x": 191871.04,
+        "y": 6791348.65,
+        "city": "Tourch",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.36178,
+        "id_scrap": 133,
+        "year": "1746 - 1809",
+        "address": " Tourch Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.897019,
+          47.99481
+        ]
+      },
+      "properties": {
+        "label": "Résidence du Jet 29370 Elliant",
+        "score": 0.30293740259740254,
+        "id": "29049_a390",
+        "name": "NAHELOU Catherine ",
+        "postcode": "29370",
+        "citycode": "29049",
+        "x": 186226.65,
+        "y": 6788499.15,
+        "city": "Elliant",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.50374,
+        "id_scrap": 134,
+        "year": "1756 - 1821",
+        "address": " Elliant Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.551288,
+          47.185782
+        ]
+      },
+      "properties": {
+        "label": "Rue Francis le Carval 44400 Rezé",
+        "score": 0.30483,
+        "id": "44143_1370",
+        "name": "NAHÉLOU Victor ",
+        "postcode": "44400",
+        "citycode": "44143",
+        "x": 355543.77,
+        "y": 6686095.92,
+        "city": "Rezé",
+        "context": "44, Loire-Atlantique, Pays de la Loire",
+        "type": "street",
+        "importance": 0.65313,
+        "id_scrap": 135,
+        "year": "1926 - 1978",
+        "address": " Rezé Loire Atlantique France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.694843,
+          48.143087
+        ]
+      },
+      "properties": {
+        "label": "Bodefa Vihan 56110 Roudouallec",
+        "score": 0.35534818181818184,
+        "type": "locality",
+        "importance": 0.30883,
+        "id": "56199_b020",
+        "name": "NAHÉLOU Joseph ",
+        "postcode": "56110",
+        "citycode": "56199",
+        "x": 202645.89,
+        "y": 6803621.31,
+        "city": "Roudouallec",
+        "context": "56, Morbihan, Bretagne",
+        "id_scrap": 136,
+        "year": "1873 - 1893",
+        "address": " Roudouallec Morbihan France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.002371,
+          48.061412
+        ]
+      },
+      "properties": {
+        "label": "Chemin de Stancou 29510 Landudal",
+        "score": 0.29746626535626536,
+        "id": "29107_hv7pxs",
+        "name": "NAHELOU Marie Barbe ",
+        "postcode": "29510",
+        "citycode": "29107",
+        "x": 179054.65,
+        "y": 6796561.85,
+        "city": "Landudal",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.35321,
+        "id_scrap": 137,
+        "year": "1746 - 1809",
+        "address": " Landudal Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.320635,
+          43.486844
+        ]
+      },
+      "properties": {
+        "label": "Cite Penitentiaire 31600 Seysses",
+        "score": 0.2550827272727273,
+        "id": "31547_e41p4o",
+        "name": "NAHÉLOU Yves Jean Marie ",
+        "postcode": "31600",
+        "citycode": "31547",
+        "x": 564101.93,
+        "y": 6266751.31,
+        "city": "Seysses",
+        "context": "31, Haute-Garonne, Occitanie",
+        "type": "street",
+        "importance": 0.55591,
+        "id_scrap": 138,
+        "year": "1896 - 1916",
+        "address": " Belle Île en Mer colonie pénitentiaire Morbihan France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69187,
+          47.843686
+        ]
+      },
+      "properties": {
+        "label": "Rue François Cadoret 29340 Riec-sur-Bélon",
+        "score": 0.4492653488372093,
+        "id": "29236_0110",
+        "name": "NAHÉLOU Yves Jean Marie ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200050.05,
+        "y": 6770452.02,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.54657,
+        "id_scrap": 139,
+        "year": "1896 - 1916",
+        "address": " Riec sur Bélon Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69187,
+          47.843686
+        ]
+      },
+      "properties": {
+        "label": "Rue François Cadoret 29340 Riec-sur-Bélon",
+        "score": 0.4492653488372093,
+        "id": "29236_0110",
+        "name": "NAHÉLOU Yves Jean Marie ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200050.05,
+        "y": 6770452.02,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.54657,
+        "id_scrap": 140,
+        "year": "1896 - 1916",
+        "address": " Riec sur Bélon Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.019504,
+          48.041916
+        ]
+      },
+      "properties": {
+        "label": "Cite de l'Odet 29510 Briec",
+        "score": 0.5677993388429752,
+        "id": "29020_a620",
+        "name": "NAHELOU Ren ",
+        "postcode": "29510",
+        "citycode": "29020",
+        "x": 177591.05,
+        "y": 6794517.07,
+        "city": "Briec",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.51852,
+        "id_scrap": 141,
+        "year": "1715 - 1768",
+        "address": " Briec de l Odet 29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.824924,
+          48.024764
+        ]
+      },
+      "properties": {
+        "label": "Place des Resistants 29140 Tourch",
+        "score": 0.2761323341523342,
+        "id": "29281_0750",
+        "name": "NAHELOU Catherine ",
+        "postcode": "29140",
+        "citycode": "29281",
+        "x": 191871.04,
+        "y": 6791348.65,
+        "city": "Tourch",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.36178,
+        "id_scrap": 142,
+        "year": "1756 - 1821",
+        "address": " Tourch Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.801776,
+          47.590639
+        ]
+      },
+      "properties": {
+        "label": "Rue Francis le Bihan 56840 Île-d'Arz",
+        "score": 0.32001530791788857,
+        "id": "56088_0084",
+        "name": "NAHÉLOU Joseph ",
+        "postcode": "56840",
+        "citycode": "56088",
+        "x": 264356.24,
+        "y": 6737151.79,
+        "city": "Île-d'Arz",
+        "context": "56, Morbihan, Bretagne",
+        "type": "street",
+        "importance": 0.32662,
+        "id_scrap": 143,
+        "year": "1873 - 1893",
+        "address": " Le Saint Morbihan France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.694843,
+          48.143087
+        ]
+      },
+      "properties": {
+        "label": "Bodefa Vihan 56110 Roudouallec",
+        "score": 0.35534818181818184,
+        "type": "locality",
+        "importance": 0.30883,
+        "id": "56199_b020",
+        "name": "NAHÉLOU Joseph ",
+        "postcode": "56110",
+        "citycode": "56199",
+        "x": 202645.89,
+        "y": 6803621.31,
+        "city": "Roudouallec",
+        "context": "56, Morbihan, Bretagne",
+        "id_scrap": 144,
+        "year": "1873 - 1893",
+        "address": " Roudouallec Morbihan France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.704255,
+          48.027925
+        ]
+      },
+      "properties": {
+        "label": "Rue Mendes France 29390 Scaër",
+        "score": 0.3266036363636364,
+        "id": "29274_0672",
+        "name": "NAHELOU Henri ",
+        "postcode": "29390",
+        "citycode": "29274",
+        "x": 200863.08,
+        "y": 6790928.98,
+        "city": "Scaër",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.49889,
+        "id_scrap": 145,
+        "year": "1809 - 1866",
+        "address": " Scaer Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.897019,
+          47.99481
+        ]
+      },
+      "properties": {
+        "label": "Résidence du Jet 29370 Elliant",
+        "score": 0.30293740259740254,
+        "id": "29049_a390",
+        "name": "NAHELOU Catherine ",
+        "postcode": "29370",
+        "citycode": "29049",
+        "x": 186226.65,
+        "y": 6788499.15,
+        "city": "Elliant",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.50374,
+        "id_scrap": 146,
+        "year": "1756 - 1821",
+        "address": " Elliant Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.288856,
+          48.870358
+        ]
+      },
+      "properties": {
+        "label": "Rue Georges Ville 75016 Paris",
+        "score": 0.3916761702127659,
+        "id": "75116_4153",
+        "name": "NAHÉLOU Adolphine ",
+        "postcode": "75016",
+        "citycode": "75116",
+        "x": 647835.19,
+        "y": 6863605.02,
+        "city": "Paris",
+        "district": "Paris 16e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "street",
+        "importance": 0.67014,
+        "id_scrap": 147,
+        "year": "1913 - 1993",
+        "address": " Paris 75016 Ville de Paris Paris France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.596832,
+          48.046808
+        ]
+      },
+      "properties": {
+        "label": "Pelle Morvan 56560 Guiscriff",
+        "score": 0.37168090909090906,
+        "id": "56081_f118",
+        "name": "NAHELOU gr Francois Marie ",
+        "postcode": "56560",
+        "citycode": "56081",
+        "x": 209017.14,
+        "y": 6792346.42,
+        "city": "Guiscriff",
+        "context": "56, Morbihan, Bretagne",
+        "type": "street",
+        "importance": 0.43224,
+        "id_scrap": 148,
+        "year": "1838 - 1862",
+        "address": " Guiscriff Morbihan France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.542226,
+          48.013429
+        ]
+      },
+      "properties": {
+        "label": "Guern Vihan 56320 Lanvénégen",
+        "score": 0.3900981818181818,
+        "id": "56105_2p42kb",
+        "name": "NAHELOU gr Francois Marie ",
+        "postcode": "56320",
+        "citycode": "56105",
+        "x": 212765,
+        "y": 6788311.79,
+        "city": "Lanvénégen",
+        "context": "56, Morbihan, Bretagne",
+        "type": "street",
+        "importance": 0.35358,
+        "id_scrap": 149,
+        "year": "1838 - 1862",
+        "address": " Lanvenegen Morbihan France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.542226,
+          48.013429
+        ]
+      },
+      "properties": {
+        "label": "Guern Vihan 56320 Lanvénégen",
+        "score": 0.343831948051948,
+        "id": "56105_2p42kb",
+        "name": "NAHELOU Alain ",
+        "postcode": "56320",
+        "citycode": "56105",
+        "x": 212765,
+        "y": 6788311.79,
+        "city": "Lanvénégen",
+        "context": "56, Morbihan, Bretagne",
+        "type": "street",
+        "importance": 0.35358,
+        "id_scrap": 150,
+        "year": "1824 - 1824",
+        "address": " Lanvénégen 56105 Morbihan France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.786279,
+          47.509912
+        ]
+      },
+      "properties": {
+        "label": "Le Grand Conseil 37380 Monnaie",
+        "score": 0.3731602139037433,
+        "type": "locality",
+        "importance": 0.39888,
+        "id": "37153_b080",
+        "name": "NAHELOU Maria ",
+        "postcode": "37380",
+        "citycode": "37153",
+        "x": 533396.86,
+        "y": 6714507.33,
+        "city": "Monnaie",
+        "context": "37, Indre-et-Loire, Centre-Val de Loire",
+        "id_scrap": 151,
+        "address": " Le Conseil Morbihan France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.243142,
+          47.893546
+        ]
+      },
+      "properties": {
+        "label": "Tourne Veste 72220 Laigné-en-Belin",
+        "score": 0.27720918762088975,
+        "type": "locality",
+        "importance": 0.36845,
+        "id": "72155_b722",
+        "name": "NAHÉLOU Adolphine ",
+        "postcode": "72220",
+        "citycode": "72155",
+        "x": 494023.52,
+        "y": 6758390.73,
+        "city": "Laigné-en-Belin",
+        "context": "72, Sarthe, Pays de la Loire",
+        "id_scrap": 152,
+        "year": "1913 - 1993",
+        "address": " Veurne 8630 West Vlaanderen Belgium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.696174,
+          50.496881
+        ]
+      },
+      "properties": {
+        "label": "Résidence du Domaine de Saint-martin 62113 Sailly-Labourse",
+        "score": 0.4463844497607655,
+        "id": "62735_a180",
+        "name": "NAHÉLOU Adolphine ",
+        "postcode": "62113",
+        "citycode": "62735",
+        "x": 678409.61,
+        "y": 7044433.91,
+        "city": "Sailly-Labourse",
+        "context": "62, Pas-de-Calais, Hauts-de-France",
+        "type": "street",
+        "importance": 0.52865,
+        "id_scrap": 153,
+        "year": "1913 - 1993",
+        "address": " Sailly Labourse 62113 Departement du Pas de Calais France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.704255,
+          48.027925
+        ]
+      },
+      "properties": {
+        "label": "Rue Mendes France 29390 Scaër",
+        "score": 0.2986003896103896,
+        "id": "29274_0672",
+        "name": "NAHÉLOU Marie Henriette ",
+        "postcode": "29390",
+        "citycode": "29274",
+        "x": 200863.08,
+        "y": 6790928.98,
+        "city": "Scaër",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.49889,
+        "id_scrap": 154,
+        "year": "1844 - 1874",
+        "address": " Scaër 29274 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.971005,
+          49.028101
+        ]
+      },
+      "properties": {
+        "label": "Venelle du Blé En Herbe 95180 Menucourt",
+        "score": 0.15355822966507174,
+        "id": "95388_0017",
+        "name": "NAHÉLOU Joseph ",
+        "postcode": "95180",
+        "citycode": "95388",
+        "x": 624749.45,
+        "y": 6881402.17,
+        "city": "Menucourt",
+        "context": "95, Val-d'Oise, Île-de-France",
+        "type": "street",
+        "importance": 0.50493,
+        "id_scrap": 155,
+        "address": " Bl ven Morbihan France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.328659,
+          48.851506
+        ]
+      },
+      "properties": {
+        "label": "Voie E/6 75006 Paris",
+        "score": 0.29975060606060605,
+        "id": "75106_dcen1e",
+        "name": "NAHÉLOU Adolphine ",
+        "postcode": "75006",
+        "citycode": "75106",
+        "x": 650736.98,
+        "y": 6861483.28,
+        "city": "Paris",
+        "district": "Paris 6e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "street",
+        "importance": 0.63059,
+        "id_scrap": 156,
+        "year": "1913 - 1993",
+        "address": " Paris 16 e Paris France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.689238,
+          50.504138
+        ]
+      },
+      "properties": {
+        "label": "Résidence les Blés d'Or 62113 Sailly-Labourse",
+        "score": 0.3781515151515151,
+        "id": "62735_a001",
+        "name": "NAHÉLOU Adolphine ",
+        "postcode": "62113",
+        "citycode": "62735",
+        "x": 677919.91,
+        "y": 7045244.31,
+        "city": "Sailly-Labourse",
+        "context": "62, Pas-de-Calais, Hauts-de-France",
+        "type": "street",
+        "importance": 0.493,
+        "id_scrap": 158,
+        "year": "1913 - 1993",
+        "address": " Sailly Labourse FR Pas de Calais France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.243142,
+          47.893546
+        ]
+      },
+      "properties": {
+        "label": "Tourne Veste 72220 Laigné-en-Belin",
+        "score": 0.30622272727272726,
+        "type": "locality",
+        "importance": 0.36845,
+        "id": "72155_b722",
+        "name": "NAHÉLOU Adolphine ",
+        "postcode": "72220",
+        "citycode": "72155",
+        "x": 494023.52,
+        "y": 6758390.73,
+        "city": "Laigné-en-Belin",
+        "context": "72, Sarthe, Pays de la Loire",
+        "id_scrap": 159,
+        "year": "1913 - 1993",
+        "address": " Veurne West Vlaanderen Belgium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.828061,
+          48.066367
+        ]
+      },
+      "properties": {
+        "label": "Chemin de Brehoray 29370 Coray",
+        "score": 0.2513850649350649,
+        "id": "29041_orm5na",
+        "name": "NAHELOU Jean ",
+        "postcode": "29370",
+        "citycode": "29041",
+        "x": 192037.35,
+        "y": 6795974.72,
+        "city": "Coray",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.45095,
+        "id_scrap": 160,
+        "year": "1673 - 1728",
+        "address": " Coray Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.828061,
+          48.066367
+        ]
+      },
+      "properties": {
+        "label": "Chemin de Brehoray 29370 Coray",
+        "score": 0.2513850649350649,
+        "id": "29041_orm5na",
+        "name": "NAHELOU Ren ",
+        "postcode": "29370",
+        "citycode": "29041",
+        "x": 192037.35,
+        "y": 6795974.72,
+        "city": "Coray",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.45095,
+        "id_scrap": 162,
+        "year": "1715 - 1768",
+        "address": " Coray Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.002371,
+          48.061412
+        ]
+      },
+      "properties": {
+        "label": "Chemin de Stancou 29510 Landudal",
+        "score": 0.29746626535626536,
+        "id": "29107_hv7pxs",
+        "name": "NAHÉLOU Marie Barbe ",
+        "postcode": "29510",
+        "citycode": "29107",
+        "x": 179054.65,
+        "y": 6796561.85,
+        "city": "Landudal",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.35321,
+        "id_scrap": 163,
+        "year": "1746 - 1769",
+        "address": " Landudal Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.897019,
+          47.99481
+        ]
+      },
+      "properties": {
+        "label": "Résidence du Jet 29370 Elliant",
+        "score": 0.30293740259740254,
+        "id": "29049_a390",
+        "name": "NAHELOU Ren ",
+        "postcode": "29370",
+        "citycode": "29049",
+        "x": 186226.65,
+        "y": 6788499.15,
+        "city": "Elliant",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.50374,
+        "id_scrap": 164,
+        "year": "1715 - 1768",
+        "address": " Elliant Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.752462,
+          47.934013
+        ]
+      },
+      "properties": {
+        "label": "Le Faouet 56500 Moréac",
+        "score": 0.40736545454545453,
+        "id": "56140_yhwzpj",
+        "name": "NAHÉLOU Joseph ",
+        "postcode": "56500",
+        "citycode": "56140",
+        "x": 270829.43,
+        "y": 6774930.81,
+        "city": "Moréac",
+        "context": "56, Morbihan, Bretagne",
+        "type": "street",
+        "importance": 0.48102,
+        "id_scrap": 165,
+        "address": " Le Faouet Morbihan France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.837691,
+          47.962481
+        ]
+      },
+      "properties": {
+        "label": "Rue Anatole France 29140 Rosporden",
+        "score": 0.38096351351351354,
+        "id": "29241_0030",
+        "name": "NAHELOU Marie Barbe ",
+        "postcode": "29140",
+        "citycode": "29241",
+        "x": 190324.32,
+        "y": 6784535.82,
+        "city": "Rosporden",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.54195,
+        "id_scrap": 166,
+        "year": "1746 - 1809",
+        "address": " Rosporden Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.824924,
+          48.024764
+        ]
+      },
+      "properties": {
+        "label": "Place des Resistants 29140 Tourch",
+        "score": 0.2761323341523342,
+        "id": "29281_0750",
+        "name": "NAHELOU Catherine ",
+        "postcode": "29140",
+        "citycode": "29281",
+        "x": 191871.04,
+        "y": 6791348.65,
+        "city": "Tourch",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.36178,
+        "id_scrap": 167,
+        "year": "1756 - 1821",
+        "address": " Tourch Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.317645,
+          48.893193
+        ]
+      },
+      "properties": {
+        "label": "Rue Cardan 75017 Paris",
+        "score": 0.20197158102766796,
+        "id": "75117_1531",
+        "name": "NAHELOU DAUPHIN Céline ",
+        "postcode": "75017",
+        "citycode": "75117",
+        "x": 649968.85,
+        "y": 6866125.49,
+        "city": "Paris",
+        "district": "Paris 17e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "street",
+        "importance": 0.65647,
+        "id_scrap": 168,
+        "address": " Caudan France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.774216,
+          47.345181
+        ]
+      },
+      "properties": {
+        "label": "Allée Franz Liszt 49290 Chalonnes-sur-Loire",
+        "score": 0.4476831550802139,
+        "id": "49063_0685",
+        "name": "NAHÉLOU LE GOF Yvette ",
+        "postcode": "49290",
+        "citycode": "49063",
+        "x": 415151.67,
+        "y": 6700681.05,
+        "city": "Chalonnes-sur-Loire",
+        "context": "49, Maine-et-Loire, Pays de la Loire",
+        "type": "street",
+        "importance": 0.51275,
+        "id_scrap": 169,
+        "address": " Chalonnes sur Loire Maine et Loire France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69187,
+          47.843686
+        ]
+      },
+      "properties": {
+        "label": "Rue François Cadoret 29340 Riec-sur-Bélon",
+        "score": 0.4492653488372093,
+        "id": "29236_0110",
+        "name": "NAHÉLOU NAHÉLOU Renée ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200050.05,
+        "y": 6770452.02,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.54657,
+        "id_scrap": 170,
+        "address": " Riec sur Bélon Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.292268,
+          48.85707
+        ]
+      },
+      "properties": {
+        "label": "Rue de Buenos Aires 75007 Paris",
+        "score": 0.2775377685950413,
+        "id": "75107_1367",
+        "name": "NAHÉLOU Christian ",
+        "postcode": "75007",
+        "citycode": "75107",
+        "x": 648072.22,
+        "y": 6862125.26,
+        "city": "Paris",
+        "district": "Paris 7e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "street",
+        "importance": 0.59837,
+        "id_scrap": 171,
+        "address": " Buenos Aires Ciudad de Buenos Aires Capital Federal Argentina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.828061,
+          48.066367
+        ]
+      },
+      "properties": {
+        "label": "Chemin de Brehoray 29370 Coray",
+        "score": 0.2513850649350649,
+        "id": "29041_orm5na",
+        "name": "NAHÉLOU Ren ",
+        "postcode": "29370",
+        "citycode": "29041",
+        "x": 192037.35,
+        "y": 6795974.72,
+        "city": "Coray",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.45095,
+        "id_scrap": 172,
+        "year": "1741 - 1741",
+        "address": " Coray Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.897019,
+          47.99481
+        ]
+      },
+      "properties": {
+        "label": "Résidence du Jet 29370 Elliant",
+        "score": 0.30293740259740254,
+        "id": "29049_a390",
+        "name": "NAHÉLOU Ren ",
+        "postcode": "29370",
+        "citycode": "29049",
+        "x": 186226.65,
+        "y": 6788499.15,
+        "city": "Elliant",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.50374,
+        "id_scrap": 173,
+        "year": "1743 - 1743",
+        "address": " Elliant Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.627102,
+          47.956863
+        ]
+      },
+      "properties": {
+        "label": "Stang Feunteun 29380 Saint-Thurien",
+        "score": 0.3904942657342657,
+        "id": "29269_d003",
+        "name": "NAHELOU Françoise ",
+        "postcode": "29380",
+        "citycode": "29269",
+        "x": 205931.65,
+        "y": 6782575.35,
+        "city": "Saint-Thurien",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.37236,
+        "id_scrap": 174,
+        "year": "1769 - 1793",
+        "address": " Saint Thurien Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.79912,
+          47.493277
+        ]
+      },
+      "properties": {
+        "label": "Rue Hent Morice 56370 Sarzeau",
+        "score": 0.26610484848484844,
+        "id": "56240_1134",
+        "name": "NAHÉLOU Mme ",
+        "postcode": "56370",
+        "citycode": "56240",
+        "x": 263761.67,
+        "y": 6726350,
+        "city": "Sarzeau",
+        "context": "56, Morbihan, Bretagne",
+        "type": "street",
+        "importance": 0.59382,
+        "id_scrap": 175,
+        "address": " Henne Morbihan France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69187,
+          47.843686
+        ]
+      },
+      "properties": {
+        "label": "Rue François Cadoret 29340 Riec-sur-Bélon",
+        "score": 0.4492653488372093,
+        "id": "29236_0110",
+        "name": "NAHELOU Josèphe Marie Jeanne Renée Yvonne ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200050.05,
+        "y": 6770452.02,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.54657,
+        "id_scrap": 176,
+        "year": "1912 - 1912",
+        "address": " Riec sur Belon Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.537094,
+          47.17235
+        ]
+      },
+      "properties": {
+        "label": "Rue Francis Hugot 44400 Rezé",
+        "score": 0.3842271074380165,
+        "id": "44143_1365",
+        "name": "NAHÉLOU LE Yvette ",
+        "postcode": "44400",
+        "citycode": "44143",
+        "x": 356531.15,
+        "y": 6684544.59,
+        "city": "Rezé",
+        "context": "44, Loire-Atlantique, Pays de la Loire",
+        "type": "street",
+        "importance": 0.54468,
+        "id_scrap": 178,
+        "address": " Rezé France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.366934,
+          47.746206
+        ]
+      },
+      "properties": {
+        "label": "Avenue Anatole France 56100 Lorient",
+        "score": 0.34487656019656027,
+        "id": "56121_0270",
+        "name": "NAHÉLOU Mme ",
+        "postcode": "56100",
+        "citycode": "56121",
+        "x": 223399.68,
+        "y": 6757648.86,
+        "city": "Lorient",
+        "context": "56, Morbihan, Bretagne",
+        "type": "street",
+        "importance": 0.63148,
+        "id_scrap": 179,
+        "address": " Lorient Morbihan France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69187,
+          47.843686
+        ]
+      },
+      "properties": {
+        "label": "Rue François Cadoret 29340 Riec-sur-Bélon",
+        "score": 0.40474821612349915,
+        "id": "29236_0110",
+        "name": "NAHELOU Ferdinande Albertine ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200050.05,
+        "y": 6770452.02,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.54657,
+        "id_scrap": 180,
+        "year": "1915 - 1945",
+        "address": " Riec sur Belon 29236 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.511706,
+          48.400421
+        ]
+      },
+      "properties": {
+        "label": "Rue Francis Garnier 29200 Brest",
+        "score": 0.3669590909090909,
+        "id": "29019_1708",
+        "name": "NAHÉLOU Charles ",
+        "postcode": "29200",
+        "citycode": "29019",
+        "x": 144851.71,
+        "y": 6837550.9,
+        "city": "Brest",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.66155,
+        "id_scrap": 181,
+        "address": " Uiec Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.801776,
+          47.590639
+        ]
+      },
+      "properties": {
+        "label": "Rue Francis le Bihan 56840 Île-d'Arz",
+        "score": 0.3365109090909091,
+        "id": "56088_0084",
+        "name": "NAHÉLOU Agnès ",
+        "postcode": "56840",
+        "citycode": "56088",
+        "x": 264356.24,
+        "y": 6737151.79,
+        "city": "Île-d'Arz",
+        "context": "56, Morbihan, Bretagne",
+        "type": "street",
+        "importance": 0.32662,
+        "id_scrap": 182,
+        "address": " Morbihan France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.969158,
+          48.065351
+        ]
+      },
+      "properties": {
+        "label": "Keraudren 29510 Landudal",
+        "score": 0.3827674447174447,
+        "id": "29107_gh59f1",
+        "name": "NAHELOU Marie Barbe ",
+        "postcode": "29510",
+        "citycode": "29107",
+        "x": 181557.7,
+        "y": 6796779.28,
+        "city": "Landudal",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.31855,
+        "id_scrap": 183,
+        "year": "1746 - 1809",
+        "address": " Landudal 29510 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.827328,
+          48.034442
+        ]
+      },
+      "properties": {
+        "label": "Kerisole 29140 Tourch",
+        "score": 0.366636577540107,
+        "id": "29281_ovswjy",
+        "name": "NAHELOU Marie Barbe ",
+        "postcode": "29140",
+        "citycode": "29281",
+        "x": 191785.38,
+        "y": 6792435.57,
+        "city": "Tourch",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.32712,
+        "id_scrap": 184,
+        "year": "1746 - 1809",
+        "address": " Tourch 29140 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.837691,
+          47.962481
+        ]
+      },
+      "properties": {
+        "label": "Rue Anatole France 29140 Rosporden",
+        "score": 0.4488453488372093,
+        "id": "29241_0030",
+        "name": "NAHELOU Marie Barbe ",
+        "postcode": "29140",
+        "citycode": "29241",
+        "x": 190324.32,
+        "y": 6784535.82,
+        "city": "Rosporden",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.54195,
+        "id_scrap": 185,
+        "year": "1746 - 1809",
+        "address": " Rosporden 29140 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69187,
+          47.843686
+        ]
+      },
+      "properties": {
+        "label": "Rue François Cadoret 29340 Riec-sur-Bélon",
+        "score": 0.28345441558441553,
+        "id": "29236_0110",
+        "name": "NAHÉLOU Charles ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200050.05,
+        "y": 6770452.02,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.54657,
+        "id_scrap": 186,
+        "address": " Riec Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.837691,
+          47.962481
+        ]
+      },
+      "properties": {
+        "label": "Rue Anatole France 29140 Rosporden",
+        "score": 0.4488453488372093,
+        "id": "29241_0030",
+        "name": "NAHELOU Marie Barbe ",
+        "postcode": "29140",
+        "citycode": "29241",
+        "x": 190324.32,
+        "y": 6784535.82,
+        "city": "Rosporden",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.54195,
+        "id_scrap": 187,
+        "year": "1746 - 1809",
+        "address": " Rosporden 29140 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.596832,
+          48.046808
+        ]
+      },
+      "properties": {
+        "label": "Pelle Morvan 56560 Guiscriff",
+        "score": 0.44838545454545453,
+        "id": "56081_f118",
+        "name": "le NAHELOU Barbe ",
+        "postcode": "56560",
+        "citycode": "56081",
+        "x": 209017.14,
+        "y": 6792346.42,
+        "city": "Guiscriff",
+        "context": "56, Morbihan, Bretagne",
+        "type": "street",
+        "importance": 0.43224,
+        "id_scrap": 188,
+        "year": "1868 - 1893",
+        "address": " Guiscriff 56560 Morbihan France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.56199,
+          48.090386
+        ]
+      },
+      "properties": {
+        "label": "Le Saint",
+        "score": 0.39080843260188086,
+        "id": "56201",
+        "type": "municipality",
+        "name": "le NAHELOU Barbe ",
+        "postcode": "56110",
+        "citycode": "56201",
+        "x": 212006.32,
+        "y": 6796956.33,
+        "population": 591,
+        "city": "Le Saint",
+        "context": "56, Morbihan, Bretagne",
+        "importance": 0.26441,
+        "id_scrap": 189,
+        "year": "1868 - 1893",
+        "address": " Le Saint 56110 Morbihan France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.542226,
+          48.013429
+        ]
+      },
+      "properties": {
+        "label": "Guern Vihan 56320 Lanvénégen",
+        "score": 0.343831948051948,
+        "id": "56105_2p42kb",
+        "name": "NAHELOU Alain ",
+        "postcode": "56320",
+        "citycode": "56105",
+        "x": 212765,
+        "y": 6788311.79,
+        "city": "Lanvénégen",
+        "context": "56, Morbihan, Bretagne",
+        "type": "street",
+        "importance": 0.35358,
+        "id_scrap": 190,
+        "year": "1824 - 1824",
+        "address": " Lanvénégen 56105 Morbihan France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.969158,
+          48.065351
+        ]
+      },
+      "properties": {
+        "label": "Keraudren 29510 Landudal",
+        "score": 0.3827674447174447,
+        "id": "29107_gh59f1",
+        "name": "NAHELOU Marie Barbe ",
+        "postcode": "29510",
+        "citycode": "29107",
+        "x": 181557.7,
+        "y": 6796779.28,
+        "city": "Landudal",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.31855,
+        "id_scrap": 191,
+        "year": "1746 - 1809",
+        "address": " Landudal 29510 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.827328,
+          48.034442
+        ]
+      },
+      "properties": {
+        "label": "Kerisole 29140 Tourch",
+        "score": 0.366636577540107,
+        "id": "29281_ovswjy",
+        "name": "NAHELOU Marie Barbe ",
+        "postcode": "29140",
+        "citycode": "29281",
+        "x": 191785.38,
+        "y": 6792435.57,
+        "city": "Tourch",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.32712,
+        "id_scrap": 192,
+        "year": "1746 - 1809",
+        "address": " Tourch 29140 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.019504,
+          48.041916
+        ]
+      },
+      "properties": {
+        "label": "Cite de l'Odet 29510 Briec",
+        "score": 0.5789563636363637,
+        "id": "29020_a620",
+        "name": "NAHELOU Ren ",
+        "postcode": "29510",
+        "citycode": "29020",
+        "x": 177591.05,
+        "y": 6794517.07,
+        "city": "Briec",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.51852,
+        "id_scrap": 193,
+        "year": "1715 - 1768",
+        "address": " Briec de l Odet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.823524,
+          48.023608
+        ]
+      },
+      "properties": {
+        "label": "Rue de Prat Tourc'H 29140 Tourch",
+        "score": 0.27254,
+        "id": "29281_0700",
+        "name": "NAHÉLOU Marie Barbe ",
+        "postcode": "29140",
+        "citycode": "29281",
+        "x": 191963.93,
+        "y": 6791211.66,
+        "city": "Tourch",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.37294,
+        "id_scrap": 194,
+        "year": "1746 - 1769",
+        "address": " Tourc h France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.094449,
+          48.193339
+        ]
+      },
+      "properties": {
+        "label": "Residence Kernevel 29150 Châteaulin",
+        "score": 0.34533540669856455,
+        "id": "29026_a392",
+        "name": "NAHELOU Marie ",
+        "postcode": "29150",
+        "citycode": "29026",
+        "x": 173538.26,
+        "y": 6811775.4,
+        "city": "Châteaulin",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.4829,
+        "id_scrap": 195,
+        "year": "1791 - 1791",
+        "address": " Kernével Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.345036,
+          47.814527
+        ]
+      },
+      "properties": {
+        "label": "Résidence Jean Moulin 56850 Caudan",
+        "score": 0.3229836363636363,
+        "id": "56036_a069",
+        "name": "NAHELOU Christian ",
+        "postcode": "56850",
+        "citycode": "56036",
+        "x": 225644.65,
+        "y": 6765083.4,
+        "city": "Caudan",
+        "context": "56, Morbihan, Bretagne",
+        "type": "street",
+        "importance": 0.55282,
+        "id_scrap": 196,
+        "address": " Caudan Morbihan France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.943875,
+          48.10026
+        ]
+      },
+      "properties": {
+        "label": "Pont Flaouter 29510 Briec",
+        "score": 0.2683445454545455,
+        "id": "29020_d086",
+        "name": "NAHÉLOU Jean Louis Charles ",
+        "postcode": "29510",
+        "citycode": "29020",
+        "x": 183774.38,
+        "y": 6800477.96,
+        "city": "Briec",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.43179,
+        "id_scrap": 197,
+        "address": " Pont Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.183901,
+          48.659801
+        ]
+      },
+      "properties": {
+        "label": "Rue Kergrist 29430 Plouescat",
+        "score": 0.36749404958677684,
+        "id": "29185_0185",
+        "name": "NAHÉLOU Charles Marie ",
+        "postcode": "29430",
+        "citycode": "29185",
+        "x": 171629.18,
+        "y": 6864010.95,
+        "city": "Plouescat",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.49698,
+        "id_scrap": 199,
+        "address": " Plouescat Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69187,
+          47.843686
+        ]
+      },
+      "properties": {
+        "label": "Rue François Cadoret 29340 Riec-sur-Bélon",
+        "score": 0.5005230612244896,
+        "id": "29236_0110",
+        "name": "NAHELLEC NAHELOU Marie Catherine ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200050.05,
+        "y": 6770452.02,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.54657,
+        "id_scrap": 200,
+        "year": "1818 - 1876",
+        "address": " Riec sur Belon 29340 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.589542,
+          47.871505
+        ]
+      },
+      "properties": {
+        "label": "Rue Ferdinand Buisson 29300 Mellac",
+        "score": 0.2787748325358852,
+        "id": "29147_0217",
+        "name": "LE NAHELOU Mathieu ",
+        "postcode": "29300",
+        "citycode": "29147",
+        "x": 207934.74,
+        "y": 6772889.35,
+        "city": "Mellac",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.46126,
+        "id_scrap": 201,
+        "year": "1788 - 1788",
+        "address": " mellac Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.768215,
+          47.864467
+        ]
+      },
+      "properties": {
+        "label": "Nizon 29930 Pont-Aven",
+        "score": 0.3441466666666666,
+        "id": "29217_9nipsj",
+        "name": "NAHELLEC NAHELOU Marie Catherine ",
+        "postcode": "29930",
+        "citycode": "29217",
+        "x": 194557.88,
+        "y": 6773238.69,
+        "city": "Pont-Aven",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.45228,
+        "id_scrap": 202,
+        "year": "1818 - 1876",
+        "address": " Nizon 29930 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.824924,
+          48.024764
+        ]
+      },
+      "properties": {
+        "label": "Place des Resistants 29140 Tourch",
+        "score": 0.2761323341523342,
+        "id": "29281_0750",
+        "name": "NAHELOU Suzanne ",
+        "postcode": "29140",
+        "citycode": "29281",
+        "x": 191871.04,
+        "y": 6791348.65,
+        "city": "Tourch",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.36178,
+        "id_scrap": 203,
+        "year": "1754 - 1789",
+        "address": " Tourch Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.897019,
+          47.99481
+        ]
+      },
+      "properties": {
+        "label": "Résidence du Jet 29370 Elliant",
+        "score": 0.30293740259740254,
+        "id": "29049_a390",
+        "name": "NAHELOU Elisabeth ",
+        "postcode": "29370",
+        "citycode": "29049",
+        "x": 186226.65,
+        "y": 6788499.15,
+        "city": "Elliant",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.50374,
+        "id_scrap": 204,
+        "year": "1752 - 1754",
+        "address": " Elliant Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.824924,
+          48.024764
+        ]
+      },
+      "properties": {
+        "label": "Place des Resistants 29140 Tourch",
+        "score": 0.2761323341523342,
+        "id": "29281_0750",
+        "name": "NAHELOU Elisabeth ",
+        "postcode": "29140",
+        "citycode": "29281",
+        "x": 191871.04,
+        "y": 6791348.65,
+        "city": "Tourch",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.36178,
+        "id_scrap": 205,
+        "year": "1752 - 1754",
+        "address": " Tourch Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.704255,
+          48.027925
+        ]
+      },
+      "properties": {
+        "label": "Rue Mendes France 29390 Scaër",
+        "score": 0.3266036363636364,
+        "id": "29274_0672",
+        "name": "NAHELOU Louise ",
+        "postcode": "29390",
+        "citycode": "29274",
+        "x": 200863.08,
+        "y": 6790928.98,
+        "city": "Scaër",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.49889,
+        "id_scrap": 206,
+        "year": "1855 - 1882",
+        "address": " Scaer Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.627102,
+          47.956863
+        ]
+      },
+      "properties": {
+        "label": "Stang Feunteun 29380 Saint-Thurien",
+        "score": 0.3511050834879406,
+        "id": "29269_d003",
+        "name": "NAHELOU Françoise ",
+        "postcode": "29380",
+        "citycode": "29269",
+        "x": 205931.65,
+        "y": 6782575.35,
+        "city": "Saint-Thurien",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.37236,
+        "id_scrap": 207,
+        "year": "1793 - 1793",
+        "address": " Saint Thurien 29269 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.837691,
+          47.962481
+        ]
+      },
+      "properties": {
+        "label": "Rue Anatole France 29140 Rosporden",
+        "score": 0.4488453488372093,
+        "id": "29241_0030",
+        "name": "NAHELOU Marie ",
+        "postcode": "29140",
+        "citycode": "29241",
+        "x": 190324.32,
+        "y": 6784535.82,
+        "city": "Rosporden",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.54195,
+        "id_scrap": 208,
+        "year": "1788 - 1788",
+        "address": " Rosporden 29140 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.827328,
+          48.034442
+        ]
+      },
+      "properties": {
+        "label": "Kerisole 29140 Tourch",
+        "score": 0.366636577540107,
+        "id": "29281_ovswjy",
+        "name": "NAHELOU Marie ",
+        "postcode": "29140",
+        "citycode": "29281",
+        "x": 191785.38,
+        "y": 6792435.57,
+        "city": "Tourch",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.32712,
+        "id_scrap": 209,
+        "year": "1788 - 1788",
+        "address": " Tourch 29140 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.981944,
+          48.059539
+        ]
+      },
+      "properties": {
+        "label": "Landudal",
+        "score": 0.3070581818181818,
+        "id": "29107",
+        "type": "municipality",
+        "name": "NAHELOU Marie ",
+        "postcode": "29510",
+        "citycode": "29107",
+        "x": 180551.98,
+        "y": 6796219.96,
+        "population": 874,
+        "city": "Landudal",
+        "context": "29, Finistère, Bretagne",
+        "importance": 0.28389,
+        "id_scrap": 210,
+        "year": "1769 - 1769",
+        "address": " Landudal 29107 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.824924,
+          48.024764
+        ]
+      },
+      "properties": {
+        "label": "Place des Resistants 29140 Tourch",
+        "score": 0.2591947001934236,
+        "id": "29281_0750",
+        "name": "NAHELOU Marie ",
+        "postcode": "29140",
+        "citycode": "29281",
+        "x": 191871.04,
+        "y": 6791348.65,
+        "city": "Tourch",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.36178,
+        "id_scrap": 211,
+        "year": "1769 - 1769",
+        "address": " Tourch 29281 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.630257,
+          47.979328
+        ]
+      },
+      "properties": {
+        "label": "Kerauffret 29380 Saint-Thurien",
+        "score": 0.4582568831168831,
+        "id": "29269_lrujph",
+        "name": "NAHELOU Françoise ",
+        "postcode": "29380",
+        "citycode": "29269",
+        "x": 205906.36,
+        "y": 6785082.61,
+        "city": "Saint-Thurien",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.32654,
+        "id_scrap": 212,
+        "year": "1793 - 1793",
+        "address": " Saint Thurien 29380 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.837691,
+          47.962481
+        ]
+      },
+      "properties": {
+        "label": "Rue Anatole France 29140 Rosporden",
+        "score": 0.34520628626692457,
+        "id": "29241_0030",
+        "name": "NAHELOU Marie ",
+        "postcode": "29140",
+        "citycode": "29241",
+        "x": 190324.32,
+        "y": 6784535.82,
+        "city": "Rosporden",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.54195,
+        "id_scrap": 213,
+        "year": "1788 - 1788",
+        "address": " Rosporden 29241 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.824924,
+          48.024764
+        ]
+      },
+      "properties": {
+        "label": "Place des Resistants 29140 Tourch",
+        "score": 0.2591947001934236,
+        "id": "29281_0750",
+        "name": "NAHELOU Marie ",
+        "postcode": "29140",
+        "citycode": "29281",
+        "x": 191871.04,
+        "y": 6791348.65,
+        "city": "Tourch",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.36178,
+        "id_scrap": 214,
+        "year": "1788 - 1788",
+        "address": " Tourch 29281 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.823524,
+          48.023608
+        ]
+      },
+      "properties": {
+        "label": "Rue de Prat Tourc'H 29140 Tourch",
+        "score": 0.27254,
+        "id": "29281_0700",
+        "name": "NAHÉLOU Suzanne ",
+        "postcode": "29140",
+        "citycode": "29281",
+        "x": 191963.93,
+        "y": 6791211.66,
+        "city": "Tourch",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.37294,
+        "id_scrap": 215,
+        "year": "1754 - 1782",
+        "address": " Tourc h France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.823524,
+          48.023608
+        ]
+      },
+      "properties": {
+        "label": "Rue de Prat Tourc'H 29140 Tourch",
+        "score": 0.27254,
+        "id": "29281_0700",
+        "name": "NAHÉLOU Anne ",
+        "postcode": "29140",
+        "citycode": "29281",
+        "x": 191963.93,
+        "y": 6791211.66,
+        "city": "Tourch",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.37294,
+        "id_scrap": 216,
+        "year": "1749 - 1774",
+        "address": " Tourc h France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.828061,
+          48.066367
+        ]
+      },
+      "properties": {
+        "label": "Chemin de Brehoray 29370 Coray",
+        "score": 0.2513850649350649,
+        "id": "29041_orm5na",
+        "name": "NAHÉLOU Anne ",
+        "postcode": "29370",
+        "citycode": "29041",
+        "x": 192037.35,
+        "y": 6795974.72,
+        "city": "Coray",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.45095,
+        "id_scrap": 217,
+        "year": "1696 - 1696",
+        "address": " Coray Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.828061,
+          48.066367
+        ]
+      },
+      "properties": {
+        "label": "Chemin de Brehoray 29370 Coray",
+        "score": 0.2513850649350649,
+        "id": "29041_orm5na",
+        "name": "NAHÉLOU Claude ",
+        "postcode": "29370",
+        "citycode": "29041",
+        "x": 192037.35,
+        "y": 6795974.72,
+        "city": "Coray",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.45095,
+        "id_scrap": 218,
+        "year": "1694 - 1694",
+        "address": " Coray Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.630257,
+          47.979328
+        ]
+      },
+      "properties": {
+        "label": "Kerauffret 29380 Saint-Thurien",
+        "score": 0.4582568831168831,
+        "id": "29269_lrujph",
+        "name": "NAHELOU Françoise ",
+        "postcode": "29380",
+        "citycode": "29269",
+        "x": 205906.36,
+        "y": 6785082.61,
+        "city": "Saint-Thurien",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.32654,
+        "id_scrap": 219,
+        "year": "1793 - 1793",
+        "address": " Saint Thurien 29380 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.704255,
+          48.027925
+        ]
+      },
+      "properties": {
+        "label": "Rue Mendes France 29390 Scaër",
+        "score": 0.3266036363636364,
+        "id": "29274_0672",
+        "name": "NAHELOU Corentin ",
+        "postcode": "29390",
+        "citycode": "29274",
+        "x": 200863.08,
+        "y": 6790928.98,
+        "city": "Scaër",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.49889,
+        "id_scrap": 220,
+        "year": "1822 - 1822",
+        "address": " Scaër Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.317645,
+          48.893193
+        ]
+      },
+      "properties": {
+        "label": "Rue Cardan 75017 Paris",
+        "score": 0.20197158102766796,
+        "id": "75117_1531",
+        "name": "NAHELOU Christian ",
+        "postcode": "75017",
+        "citycode": "75117",
+        "x": 649968.85,
+        "y": 6866125.49,
+        "city": "Paris",
+        "district": "Paris 17e Arrondissement",
+        "context": "75, Paris, Île-de-France",
+        "type": "street",
+        "importance": 0.65647,
+        "id_scrap": 221,
+        "address": " Caudan France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.680762,
+          47.849497
+        ]
+      },
+      "properties": {
+        "label": "Riec-sur-Bélon",
+        "score": 0.564739090909091,
+        "id": "29236",
+        "type": "municipality",
+        "name": "NAHÉLOU Renée ",
+        "postcode": "29340",
+        "citycode": "29236",
+        "x": 200932.51,
+        "y": 6771025.11,
+        "population": 4190,
+        "city": "Riec-sur-Bélon",
+        "context": "29, Finistère, Bretagne",
+        "importance": 0.36213,
+        "id_scrap": 222,
+        "address": " Riec sur Bélon France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.345036,
+          47.814527
+        ]
+      },
+      "properties": {
+        "label": "Résidence Jean Moulin 56850 Caudan",
+        "score": 0.3229836363636363,
+        "id": "56036_a069",
+        "name": "NAHELOU Christian ",
+        "postcode": "56850",
+        "citycode": "56036",
+        "x": 225644.65,
+        "y": 6765083.4,
+        "city": "Caudan",
+        "context": "56, Morbihan, Bretagne",
+        "type": "street",
+        "importance": 0.55282,
+        "id_scrap": 223,
+        "address": " Caudan Morbihan France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.094449,
+          48.193339
+        ]
+      },
+      "properties": {
+        "label": "Residence Kernevel 29150 Châteaulin",
+        "score": 0.3376062937062937,
+        "id": "29026_a392",
+        "name": "LE NAHELOU Jeanne ",
+        "postcode": "29150",
+        "citycode": "29026",
+        "x": 173538.26,
+        "y": 6811775.4,
+        "city": "Châteaulin",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.4829,
+        "id_scrap": 224,
+        "year": "1842 - 1842",
+        "address": " Kernevel 29092 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.801776,
+          47.590639
+        ]
+      },
+      "properties": {
+        "label": "Rue Francis le Bihan 56840 Île-d'Arz",
+        "score": 0.32001530791788857,
+        "id": "56088_0084",
+        "name": "NAVELLOU NAHELOU Marie Renée ",
+        "postcode": "56840",
+        "citycode": "56088",
+        "x": 264356.24,
+        "y": 6737151.79,
+        "city": "Île-d'Arz",
+        "context": "56, Morbihan, Bretagne",
+        "type": "street",
+        "importance": 0.32662,
+        "id_scrap": 225,
+        "year": "1834 - 1834",
+        "address": " Le Saint Morbihan France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.704255,
+          48.027925
+        ]
+      },
+      "properties": {
+        "label": "Rue Mendes France 29390 Scaër",
+        "score": 0.3266036363636364,
+        "id": "29274_0672",
+        "name": "NAVELLOU NAHELOU Alain ",
+        "postcode": "29390",
+        "citycode": "29274",
+        "x": 200863.08,
+        "y": 6790928.98,
+        "city": "Scaër",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.49889,
+        "id_scrap": 226,
+        "address": " Scaer Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.995806,
+          48.102128
+        ]
+      },
+      "properties": {
+        "label": "Rue de la Resistance 29510 Briec",
+        "score": 0.31061966942148755,
+        "id": "29020_0750",
+        "name": "NAHELOU Marie ",
+        "postcode": "29510",
+        "citycode": "29020",
+        "x": 179942.13,
+        "y": 6801025.5,
+        "city": "Briec",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.55318,
+        "id_scrap": 227,
+        "year": "1750 - 1769",
+        "address": " Briec 29020 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.828061,
+          48.066367
+        ]
+      },
+      "properties": {
+        "label": "Chemin de Brehoray 29370 Coray",
+        "score": 0.2513850649350649,
+        "id": "29041_orm5na",
+        "name": "NAHELOU Jean ",
+        "postcode": "29370",
+        "citycode": "29041",
+        "x": 192037.35,
+        "y": 6795974.72,
+        "city": "Coray",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.45095,
+        "id_scrap": 229,
+        "year": "1673 - 1728",
+        "address": " Coray Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.824924,
+          48.024764
+        ]
+      },
+      "properties": {
+        "label": "Place des Resistants 29140 Tourch",
+        "score": 0.2761323341523342,
+        "id": "29281_0750",
+        "name": "NAHELOU Ren ",
+        "postcode": "29140",
+        "citycode": "29281",
+        "x": 191871.04,
+        "y": 6791348.65,
+        "city": "Tourch",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.36178,
+        "id_scrap": 230,
+        "year": "1744 - 1744",
+        "address": " Tourch Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.019504,
+          48.041916
+        ]
+      },
+      "properties": {
+        "label": "Cite de l'Odet 29510 Briec",
+        "score": 0.40633995565410197,
+        "id": "29020_a620",
+        "name": "NAHELOU Alain ",
+        "postcode": "29510",
+        "citycode": "29020",
+        "x": 177591.05,
+        "y": 6794517.07,
+        "city": "Briec",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.51852,
+        "id_scrap": 231,
+        "year": "1764 - 1764",
+        "address": " Briec de L Odet 29 Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.837691,
+          47.962481
+        ]
+      },
+      "properties": {
+        "label": "Rue Anatole France 29140 Rosporden",
+        "score": 0.3954220279720279,
+        "id": "29241_0030",
+        "name": "NAHELOU Catherine ",
+        "postcode": "29140",
+        "citycode": "29241",
+        "x": 190324.32,
+        "y": 6784535.82,
+        "city": "Rosporden",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.54195,
+        "id_scrap": 233,
+        "year": "1788 - 1788",
+        "address": " Rosporden 29140 Mellenick Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.537094,
+          47.17235
+        ]
+      },
+      "properties": {
+        "label": "Rue Francis Hugot 44400 Rezé",
+        "score": 0.3842271074380165,
+        "id": "44143_1365",
+        "name": "NAHÉLOU Yvette ",
+        "postcode": "44400",
+        "citycode": "44143",
+        "x": 356531.15,
+        "y": 6684544.59,
+        "city": "Rezé",
+        "context": "44, Loire-Atlantique, Pays de la Loire",
+        "type": "street",
+        "importance": 0.54468,
+        "id_scrap": 234,
+        "address": " Rezé France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.824924,
+          48.024764
+        ]
+      },
+      "properties": {
+        "label": "Place des Resistants 29140 Tourch",
+        "score": 0.2761323341523342,
+        "id": "29281_0750",
+        "name": "NAHELOU Pierre ",
+        "postcode": "29140",
+        "citycode": "29281",
+        "x": 191871.04,
+        "y": 6791348.65,
+        "city": "Tourch",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.36178,
+        "id_scrap": 235,
+        "year": "1748 - 1748",
+        "address": " Tourch Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.823524,
+          48.023608
+        ]
+      },
+      "properties": {
+        "label": "Rue de Prat Tourc'H 29140 Tourch",
+        "score": 0.27254,
+        "id": "29281_0700",
+        "name": "NAHÉLOU Elisabeth ",
+        "postcode": "29140",
+        "citycode": "29281",
+        "x": 191963.93,
+        "y": 6791211.66,
+        "city": "Tourch",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.37294,
+        "id_scrap": 236,
+        "year": "1752 - 1752",
+        "address": " Tourc h France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.823524,
+          48.023608
+        ]
+      },
+      "properties": {
+        "label": "Rue de Prat Tourc'H 29140 Tourch",
+        "score": 0.27254,
+        "id": "29281_0700",
+        "name": "NAHÉLOU Pierre ",
+        "postcode": "29140",
+        "citycode": "29281",
+        "x": 191963.93,
+        "y": 6791211.66,
+        "city": "Tourch",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.37294,
+        "id_scrap": 237,
+        "year": "1748 - 1748",
+        "address": " Tourc h France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.823524,
+          48.023608
+        ]
+      },
+      "properties": {
+        "label": "Rue de Prat Tourc'H 29140 Tourch",
+        "score": 0.27254,
+        "id": "29281_0700",
+        "name": "NAHÉLOU Ren ",
+        "postcode": "29140",
+        "citycode": "29281",
+        "x": 191963.93,
+        "y": 6791211.66,
+        "city": "Tourch",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.37294,
+        "id_scrap": 239,
+        "year": "1744 - 1744",
+        "address": " Tourc h France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.801776,
+          47.590639
+        ]
+      },
+      "properties": {
+        "label": "Rue Francis le Bihan 56840 Île-d'Arz",
+        "score": 0.32001530791788857,
+        "id": "56088_0084",
+        "name": "NAVELLOU NAHELOU Marie Louise ",
+        "postcode": "56840",
+        "citycode": "56088",
+        "x": 264356.24,
+        "y": 6737151.79,
+        "city": "Île-d'Arz",
+        "context": "56, Morbihan, Bretagne",
+        "type": "street",
+        "importance": 0.32662,
+        "id_scrap": 240,
+        "year": "1835 - 1835",
+        "address": " Le Saint Morbihan France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.704255,
+          48.027925
+        ]
+      },
+      "properties": {
+        "label": "Rue Mendes France 29390 Scaër",
+        "score": 0.3266036363636364,
+        "id": "29274_0672",
+        "name": "NAVELLOU NAHELOU Marie Jeanne ",
+        "postcode": "29390",
+        "citycode": "29274",
+        "x": 200863.08,
+        "y": 6790928.98,
+        "city": "Scaër",
+        "context": "29, Finistère, Bretagne",
+        "type": "street",
+        "importance": 0.49889,
+        "id_scrap": 241,
+        "year": "1838 - 1838",
+        "address": " Scaer Finistère France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.344399,
+          43.722325
+        ]
+      },
+      "properties": {
+        "label": "Frances 40140 Soustons",
+        "score": 0.8588581818181817,
+        "id": "40310_v77xig",
+        "name": "NAHELOU Yves Marie ",
+        "postcode": "40140",
+        "citycode": "40310",
+        "x": 350031.29,
+        "y": 6301107.29,
+        "city": "Soustons",
+        "context": "40, Landes, Nouvelle-Aquitaine",
+        "type": "street",
+        "importance": 0.44744,
+        "id_scrap": 103,
+        "address": " France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.344399,
+          43.722325
+        ]
+      },
+      "properties": {
+        "label": "Frances 40140 Soustons",
+        "score": 0.8588581818181817,
+        "id": "40310_v77xig",
+        "name": "NAHELOU Michel ",
+        "postcode": "40140",
+        "citycode": "40310",
+        "x": 350031.29,
+        "y": 6301107.29,
+        "city": "Soustons",
+        "context": "40, Landes, Nouvelle-Aquitaine",
+        "type": "street",
+        "importance": 0.44744,
+        "id_scrap": 104,
+        "address": " France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.344399,
+          43.722325
+        ]
+      },
+      "properties": {
+        "label": "Frances 40140 Soustons",
+        "score": 0.8588581818181817,
+        "id": "40310_v77xig",
+        "name": "NAHELOU Marie Renée ",
+        "postcode": "40140",
+        "citycode": "40310",
+        "x": 350031.29,
+        "y": 6301107.29,
+        "city": "Soustons",
+        "context": "40, Landes, Nouvelle-Aquitaine",
+        "type": "street",
+        "importance": 0.44744,
+        "id_scrap": 105,
+        "address": " France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.344399,
+          43.722325
+        ]
+      },
+      "properties": {
+        "label": "Frances 40140 Soustons",
+        "score": 0.8588581818181817,
+        "id": "40310_v77xig",
+        "name": "NAHELOU Jacques ",
+        "postcode": "40140",
+        "citycode": "40310",
+        "x": 350031.29,
+        "y": 6301107.29,
+        "city": "Soustons",
+        "context": "40, Landes, Nouvelle-Aquitaine",
+        "type": "street",
+        "importance": 0.44744,
+        "id_scrap": 106,
+        "address": " France"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.344399,
+          43.722325
+        ]
+      },
+      "properties": {
+        "label": "Frances 40140 Soustons",
+        "score": 0.8588581818181817,
+        "id": "40310_v77xig",
+        "name": "NAHELOU Andr ",
+        "postcode": "40140",
+        "citycode": "40310",
+        "x": 350031.29,
+        "y": 6301107.29,
+        "city": "Soustons",
+        "context": "40, Landes, Nouvelle-Aquitaine",
+        "type": "street",
+        "importance": 0.44744,
+        "id_scrap": 107,
+        "year": "1965 - 1965",
+        "address": " France"
+      }
+    }
+  ],
+  "licence": "ETALAB-2.0",
+  "version": "draft"
+}
